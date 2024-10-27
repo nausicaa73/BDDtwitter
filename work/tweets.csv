@@ -1,0 +1,21 @@
+tweetId,userId,repostTweetId,content,sentimentScore,postTime,modifyTime,suspendedTime,deletedTime
+4f0a2f7d-ae3b-4c97-af41-73e0188aaac8,9,NULL,"📖 #BookLovers Sometimes all you need is a good book, drink some tea, and relax.",34.77512491996416,2021-06-10 12:21:47.867948,NULL,NULL,NULL,NULL
+85c08f86-cdb0-4971-bc15-d802dc2c8a02,11,4f0a2f7d-ae3b-4c97-af41-73e0188aaac8,"💸 #TechTalk Just watched the latest episode of my favorite show, and I must say, it's not as scary as I thought!",39.349570117598795,2019-02-11 19:52:52.056130,2019-02-11 19:52:52.056130,NULL,NULL,NULL
+cadfda3a-3ede-46c8-a133-66829596b917,12,NULL,See you on the day.,5.754017104401443,2021-01-02 01:37:37.107842,2021-01-02 01:37:37.107842,2021-04-08 00:57:18.704747,NULL,NULL
+9a76146e-5be8-4744-acf7-a91ad51eb144,11,85c08f86-cdb0-4971-bc15-d802dc2c8a02,See you on the day.,82.09868089360253,2019-10-10 11:10:56.780017,2019-10-10 11:10:56.780017,2023-10-25 17:28:57.332553,NULL,2023-12-29 18:50:44.607992
+2e38c522-dc30-4436-9101-f2b1ad04c2e5,15,NULL,😅 #CodeNewbie #JS Weekend plans: Read a good playlist and some quiet time.,57.129585913190894,2023-06-15 01:42:56.289587,NULL,NULL,NULL,NULL
+071a51fa-1fa3-4173-b43a-740a27da8065,1,NULL,"💸 #TechTalk Just watched the latest episode of my favorite show, and I must say, it's not as scary as I thought!",4.559967370007478,2019-02-16 15:36:00.524614,NULL,NULL,NULL,NULL
+785227bb-bac6-4cb1-86b0-a3c353b8f703,12,NULL,"💸 #TechTalk Just watched the latest episode of my favorite show, and I must say, it's not as scary as I thought!",30.54408945765743,2022-02-12 15:54:20.427921,NULL,NULL,NULL,2023-11-11 21:28:24.944713
+81be662a-f4e6-487d-bfa5-57a09c861617,15,071a51fa-1fa3-4173-b43a-740a27da8065,😅 #CodeNewbie #JS Weekend plans: Read a good playlist and some quiet time.,64.74696034134183,2020-01-16 13:56:59.845343,NULL,NULL,NULL,NULL
+6ea1bd2d-9c86-43a6-9f2d-840e4ed454a6,16,NULL,See you on the day.,39.045850393743684,2023-09-30 22:38:18.345352,NULL,NULL,NULL,NULL
+08b76c3f-469a-4679-8e78-bee883e5e320,11,NULL,"📖 #BookLovers Sometimes all you need is a good book, drink some tea, and relax.",46.74171197984774,2019-08-05 13:47:34.798579,NULL,NULL,NULL,NULL
+90018107-98cd-4352-a56a-bb2a369f6c96,4,NULL,"📖 #BookLovers Sometimes all you need is a good book, drink some tea, and relax.",24.11975926501466,2021-08-27 05:50:17.711909,NULL,NULL,NULL,NULL
+e0c6e51b-4911-4f47-bd20-2ddce3114ad7,17,NULL,"💸 #TechTalk Just watched the latest episode of my favorite show, and I must say, it's not as scary as I thought!",72.44080191844104,2019-01-15 10:41:00.476277,NULL,NULL,NULL,NULL
+80162ed9-4e32-41d1-af68-5ad2f4f1861e,12,NULL,😅 #CodeNewbie #JS Weekend plans: Read a good playlist and some quiet time.,79.16559663272074,2022-03-16 13:18:19.190474,NULL,NULL,NULL,NULL
+52520203-eeff-4841-894b-2f7e48c5c3e0,17,NULL,"📖 #BookLovers Sometimes all you need is a good book, drink some tea, and relax.",11.844663804739819,2023-04-30 20:47:01.990502,NULL,NULL,NULL,NULL
+6c7a1afb-e91b-47e2-90cd-251bfff627a4,2,NULL,See you on the day.,45.24815334300081,2019-05-28 18:18:07.968493,NULL,NULL,NULL,NULL
+0ca07aa6-629e-474a-a65b-58531534931c,11,NULL,"💸 #TechTalk Just watched the latest episode of my favorite show, and I must say, it's not as scary as I thought!",22.124281169050718,2020-07-22 15:50:12.975622,NULL,NULL,2023-12-31 08:08:06.257955,NULL
+6891ca5a-5652-4710-8895-70ab96419b9e,4,NULL,"📖 #BookLovers Sometimes all you need is a good book, drink some tea, and relax.",92.00958491515337,2020-07-22 15:24:11.249458,NULL,NULL,NULL,NULL
+a44afba1-7461-4210-9081-e46335abd850,3,NULL,"💸 #TechTalk Just watched the latest episode of my favorite show, and I must say, it's not as scary as I thought!",7.685839270663653,2019-07-23 21:17:06.717760,NULL,NULL,NULL,NULL
+2579f09c-8eef-4688-85ba-8d7baff0131b,3,NULL,See you on the day.,14.233948731016511,2021-09-02 22:58:28.505288,NULL,NULL,2023-08-03 03:50:36.503193,NULL
+775aca50-752a-4659-a314-668f7e2b50a5,0,NULL,See you on the day.,66.4702948248036,2021-07-11 01:47:27.006357,NULL,NULL,NULL,NULL

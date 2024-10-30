@@ -6,11 +6,17 @@ import uuid
 import markovify
 
 def random_date(start, end, prop):
-    start = datetime.datetime.strptime(start, '%Y-%m-%d %H:%M:%S')
-    end = datetime.datetime.strptime(end, '%Y')
+    start = datetime.datetime.strptime(start, '%Y-%m-%d %H:%M:%S.%f')
+    try :
+        end = datetime.datetime.strptime(end, '%Y-%m-%d %H:%M:%S.%f')
+    except:
+        end = datetime.datetime.strptime(end, '%Y')
     return start + prop * (end - start)
 def random_date_from_date(start, end, prop):
-    end = datetime.datetime.strptime(end, '%Y')
+    try :
+        end = datetime.datetime.strptime(end, '%Y-%m-%d %H:%M:%S.%f')
+    except:
+        end = datetime.datetime.strptime(end, '%Y')
     return start + prop * (end - start)
 def random_text(texte,size):
     text_model = markovify.Text(texte)
@@ -62,7 +68,11 @@ def random_tweet(size):
 
   
     text_model = markovify.Text(tweets)
-    return text_model.make_short_sentence(size)
+    res=text_model.make_short_sentence(size)
+    if (res==None):
+        return "HA"
+    return res
+    
 
 def choix(choix1 , choix2, proba):
     return choix1 if random.random()<proba else choix2              
@@ -90,11 +100,14 @@ def random_reason(size):
     Cette personne tente de vendre des produits non autorisés ou frauduleux.
     """
     text_model = markovify.Text(reason)
-    return text_model.make_short_sentence(size)
+    res= text_model.make_short_sentence(size)
+    if (res==None):
+        return "HA"
+    return res
 
 
 def random_date_defaut():
-    return random_date("2019-01-01 00:00:00", "2024", random.random())
+    return random_date("2019-01-01 00:00:00.00", "2024", random.random())
 def genere_user_follower(taille, name_file_user,name_file_follower,liste_user, liste_realName):
     with open(name_file_user, 'w', newline='') as file:
         writer = csv.writer(file)
@@ -104,7 +117,7 @@ def genere_user_follower(taille, name_file_user,name_file_follower,liste_user, l
             date_suspended= random_date_from_date(date,"2024", random.random())
             date_deleted= random_date_from_date(date_suspended,"2024", random.random())
             writer.writerow([i,random.choice(liste_user),random.choice(liste_realName),random.choice((["true"]*9)+["false"]),
-                             random_bio(random.randint(100,300)),date,choix("NULL",date_suspended,0.9),choix("NULL",date_deleted,0.9)])
+                             random_bio(random.randint(100,300)),date,choix("",date_suspended,0.9),choix("",date_deleted,0.9)])
     with open(name_file_follower, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["userId","followerId","followTime","unfollowTime"])
@@ -112,7 +125,7 @@ def genere_user_follower(taille, name_file_user,name_file_follower,liste_user, l
             for j in range(taille):
                 if random.random()<0.1 and i!=j:
                     date= random_date_defaut()
-                    writer.writerow([i,j,date,choix("NULL",random_date_from_date(date, "2024",random.random()),0.9)])
+                    writer.writerow([i,j,date,choix("",random_date_from_date(date, "2024",random.random()),0.9)])
 
 def genere_tweet_like(taille, name_file_tweet, name_file_like,name_file_url, name_file_report,name_file_media, liste_user):
     liste_tweet=[]
@@ -122,21 +135,32 @@ def genere_tweet_like(taille, name_file_tweet, name_file_like,name_file_url, nam
         writer.writerow(["tweetId","userId","repostTweetId","content","sentimentScore","postTime","modifyTime","suspendedTime","deletedTime"])
         for i in range(taille):
             liste_tweet.append(random_uuid())
+            user= random.choice(liste_user)
+            #recuperer la date de création du user
+            lecture= csv.reader(open("users.csv", "r"))
             date= random_date_defaut()
-            date_edit= random_date_from_date(date,"2024", random.random())
-            date_suspended= random_date_from_date(date_edit,"2024", random.random())
-            date_deleted= random_date_from_date(date_suspended,"2024", random.random())
-            writer.writerow([liste_tweet[-1], random.choice(liste_user),
-                             "NULL" if (random.random()<0.9 or len(liste_tweet)==0) else random.choice(liste_tweet),random_tweet(280),
-                             random.random()*100,date, choix("NULL",date,0.9), choix("NULL",date_edit,0.9), choix("NULL",date_suspended,0.9),choix("NULL",date_deleted,0.9),] )
+            fin="2024"
+            for rang,row in enumerate(lecture):
+                if rang!=0 and int(row[0])==user:
+                    if row[7]!="":
+                        fin=row[7]
+                    date=random_date(row[5], fin, random.random())
+                    
+                    break
+            date_edit= random_date_from_date(date,fin, random.random())
+            date_suspended= random_date_from_date(date_edit,fin, random.random())
+            date_deleted= random_date_from_date(date_suspended,fin, random.random())
+            writer.writerow([liste_tweet[-1], user,
+                             "" if (random.random()<0.9 or len(liste_tweet)==0) else random.choice(liste_tweet),random_tweet(280),
+                             random.random()*100,date,  choix("",date_edit,0.9), choix("",date_suspended,0.9),choix("",date_deleted,0.9),] )
     with open(name_file_like, 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(["userId","tweetId","likeTime","unlikeTime"])
+        writer.writerow(["tweetId","userId","likeTime","unlikeTime"])
         for i in liste_tweet:
             for j in liste_user:
                 if random.random()<0.1:
                     date= random_date_defaut()
-                    writer.writerow([j,i,date,choix("NULL",random_date_from_date(date, "2024",random.random()),0.9)])
+                    writer.writerow([i,j,date,choix("",random_date_from_date(date, "2024",random.random()),0.9)])
     with open(name_file_url, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["urlId","tweetId","url"])
@@ -148,19 +172,29 @@ def genere_tweet_like(taille, name_file_tweet, name_file_like,name_file_url, nam
         compte=0
         for i in range(len(liste_tweet)):
             if random.random()<0.1:
-                date= random_date_defaut()
+                lecture= csv.reader(open("tweets.csv", "r"))
+                for rang,row in enumerate(lecture):
+                    if rang!=0 and row[0]==liste_tweet[i]:
+                        get_date_tweet=row[5]
+                        break
+                date= random_date(get_date_tweet,"2024", random.random())
                 writer.writerow([liste_tweet[i],compte,date,random_reason(random.randint(50,100))])
                 compte+=1
+                compte = compte%len(liste_user)
     with open(name_file_media, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["mediaId","tweetId","mimeType","size","content","exif","postTime","modifyTime","deletedTime"]) #content : bytea exif: bytea
         for i in liste_tweet:
             if random.random()<0.1:
-                date= random_date_defaut()
+                lecture= csv.reader(open("tweets.csv", "r"))
+                for rang,row in enumerate(lecture):
+                    if rang!=0 and row[0]==i:
+                        date=random_date(row[5],"2024", random.random())
+                        break
                 date_edit= random_date_from_date(date,"2024", random.random())
                 date_deleted= random_date_from_date(date_edit,"2024", random.random())
                 size=random.randint(100,1000)
-                writer.writerow([random_uuid(),i,random.choice(["image","video"]),size,os.urandom(size),os.urandom(10),date,date_edit,date_deleted])
+                writer.writerow([random_uuid(),i,random.choice(["image","video"]),size,os.urandom(size).hex(),os.urandom(10).hex(),date,date_edit,date_deleted])
 
 size=20          
 def generate_pseudo(prefixes,suffixes,sep):
@@ -195,4 +229,4 @@ genere_user_follower(size, "users.csv","followers.csv",genearte_liste_user(size,
     "Cohen", "Rousseau", "Boucher", "Lemoine", "David",
     "Blanchard", "Guillaume", "Marchand", "Faure", "Henry"
 ]," ",False))
-genere_tweet_like(size, "tweets.csv","likes.csv", "urls.csv","reports.csv" ,"medias.csv",list(range(size)))
+genere_tweet_like(size**2, "tweets.csv","likes.csv", "urls.csv","reports.csv" ,"medias.csv",list(range(size)))

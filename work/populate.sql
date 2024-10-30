@@ -108,7 +108,7 @@ CREATE TABLE TMedia (
     exif BYTEA,
     postTime TIMESTAMP NOT NULL,
     modifyTime TIMESTAMP,
-    deletedTime TIMESTAMP NOT NULL
+    deletedTime TIMESTAMP
 );
 
 COPY TMedia(mediaId, tweetId, mimetype, size, content, exif, postTime, modifyTime, deletedTime)

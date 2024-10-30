@@ -1,50 +1,1020 @@
 tweetId,reporterId,reportTime,reason
-1bccf4ba-2d0d-44b8-af60-8d237e01ccf6,0,2022-09-21 19:05:30.549935,L'utilisateur publie du contenu à caractère pornographique.
-dc2c59fa-fb7e-44a7-a3cb-4a222a68c120,1,2023-11-14 14:59:11.322667,Ce message est du spam ou des liens malveillants.
-517969ba-93a5-41eb-bd84-d82b7e25eb50,2,2023-01-17 05:28:51.206684,Ce message est du spam ou des liens malveillants.
-2045903a-ea23-4702-94b5-804855e1f518,3,2023-03-15 06:39:13.679383,Ce compte utilise des images de violence explicite.
-c3c26a91-bc10-4b06-b5a6-a6fd31d4ac38,4,2023-03-09 08:47:30.162923,Ce compte utilise des images de violence explicite.
-7c496f7c-b6d2-47b6-b212-dfae8cead913,5,2023-11-18 05:01:10.859764,Ce compte utilise des images de violence explicite.
-d9b61aa1-557a-4c89-a7b0-8bfc1713f341,6,2023-10-15 14:00:09.620927,L'utilisateur a partagé des informations trompeuses et fausses.
-f435c7d4-8ee6-4fb5-8a77-4715772f6e2f,7,2023-12-15 00:40:30.017237,Ce compte publie du contenu à caractère pornographique.
-ee27ac4b-f887-4808-9684-d56f1df75b12,8,2023-06-05 17:29:40.914043,L'utilisateur a partagé des informations trompeuses et fausses.
-8b460d64-f2b9-4e30-ab95-d715dcaebb36,9,2022-06-28 17:22:48.063679,L'utilisateur a partagé des informations trompeuses et fausses.
-88554ea6-9f4c-4894-90e9-320812f89da4,10,2021-09-06 15:36:49.601174,Cette publication contient des informations personnelles sans consentement.
-97d97975-bbcf-4fe3-aecc-a75792182821,11,2022-05-21 06:32:09.862581,Ce compte utilise des images de violence explicite.
-5c135b73-8655-44bb-8ed5-5716bd11c2cb,12,2023-12-25 23:34:17.958646,Ce compte utilise des images de violence explicite.
-53a15e9c-0831-492a-826d-b07574c6a3f8,13,2023-12-18 23:16:03.732939,L'utilisateur encourage à la violence.
-e746d47d-2c8d-4295-8d2e-9cd2dbd9c979,14,2023-06-10 21:35:28.163878,Ce compte publie du contenu à caractère pornographique.
-e731185f-4584-4cc5-89e0-712e2c192c3e,15,2022-12-25 07:16:56.824175,L'utilisateur encourage à la violence.
-33ba2af1-121b-44ae-9304-344c9991c39e,16,2023-08-20 07:48:48.171199,Ce contenu contient des informations personnelles sans consentement.
-1b5fd527-df76-41fa-81c0-70ecd520ffb3,17,2023-12-30 20:02:28.406256,L'utilisateur a partagé des informations trompeuses et fausses.
-927cd856-d1c6-459b-b0c2-3755224fb234,18,2023-12-27 23:36:31.769337,Ce compte utilise des images de violence explicite.
-29e80cb0-d05e-4039-adf0-34cc30678f1a,19,2023-06-30 01:20:58.526236,L'utilisateur encourage à la violence.
-31d92e2f-ce8d-4027-af8c-68f67edccf08,0,2023-01-12 23:25:31.894877,Ce compte utilise des images de violence explicite.
-e6f11557-8391-4a4c-adc6-9e390c3784ca,1,2021-11-22 00:58:36.398109,L'utilisateur a partagé des informations trompeuses et fausses.
-83038922-44ba-4486-9e5a-17e1824ae285,2,2023-12-25 09:09:32.156483,Cette publication contient des informations personnelles sans consentement.
-748f84a7-7888-4860-a952-b438ba82d6bb,3,2023-10-11 13:24:37.262243,Cette publication contient des informations personnelles sans consentement.
-25690f8a-2d0e-40db-b95e-e35b1e470de8,4,2020-06-12 18:00:14.064217,Ce compte publie du contenu à caractère pornographique.
-9c933483-21fc-47e1-84ea-43f419a66537,5,2023-12-24 11:04:12.458246,Ce contenu contient des informations personnelles sans consentement.
-1b8e3349-e6a8-48f5-8112-cebe59ac6d3b,6,2023-12-07 14:33:54.705700,Ce compte utilise des images de violence explicite.
-9cc909cd-b752-47db-92d9-937de2b0b652,7,2023-12-26 21:00:27.166673,Ce message est du spam ou des liens malveillants.
-b765d10d-95e9-4484-8623-1d18c53aa9ac,8,2023-10-22 22:30:33.255293,Ce contenu contient des informations personnelles sans consentement.
-0036239c-a4bc-4039-863a-f145e9f83606,9,2023-10-01 00:47:20.578036,Ce compte publie du contenu à caractère pornographique.
-4885f776-d8bf-450a-9c04-a33d24ac6ee9,10,2023-04-20 16:03:15.372430,L'utilisateur encourage à la violence.
-8bc196b4-84f0-4b6c-903a-bd2583f526aa,11,2022-12-11 06:55:02.409666,L'utilisateur encourage à la violence.
-6a3a3604-1de2-42cb-b57e-dd6de58a94b8,12,2023-11-26 09:30:55.206798,Ce compte publie du contenu à caractère pornographique.
-13471768-9163-4cd7-bc49-e961bd6c8734,13,2023-12-21 10:13:41.501089,L'utilisateur a partagé des informations trompeuses et fausses.
-ef58c9ad-7607-4bdb-ba3e-b3d2025e250b,14,2023-09-17 06:58:10.926315,L'utilisateur encourage à la violence.
-3bd7c2d4-95d4-47bd-8766-eb046aad4501,15,2023-11-16 12:59:34.418772,Ce contenu contient des insultes racistes ou discriminatoires.
-7eff4468-d0e3-4597-858d-8d3665d150b1,16,2023-08-25 06:56:16.433460,L'utilisateur a partagé des informations trompeuses et fausses.
-fc25bf5e-2e05-456d-a4aa-04a7d4ce66f9,17,2023-08-24 16:27:06.607160,Ce compte utilise des images de violence explicite.
-88a79bbf-851a-4db6-b05f-33b61e0bfc77,18,2023-09-30 15:37:50.643144,Ce compte publie du contenu à caractère pornographique.
-126fa8b7-9fec-46fe-b467-09f6921ce5e6,19,2023-05-27 04:39:44.909633,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
-f97f495c-2b93-4283-a0fb-5cfca88c6808,0,2022-09-24 23:18:11.882601,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
-2d74e9d1-8ad0-4e0a-bf10-d85fbded8918,1,2023-10-05 10:27:50.437859,Ce contenu contient des insultes racistes ou discriminatoires.
-61b31171-ac2f-4b34-b6f2-0389c2053601,2,2023-03-14 07:24:45.654492,L'utilisateur publie du contenu à caractère pornographique.
-79699057-7420-41f4-8949-57ff78f38d3e,3,2023-09-20 08:01:45.350207,L'utilisateur encourage à la violence.
-d250f360-2408-4866-a868-ecf475c21db9,4,2023-12-29 17:35:23.142474,Ce compte utilise des images de violence explicite.
-a003910f-e11c-4b68-af0e-483bd684f5ad,5,2023-08-27 22:02:25.763973,L'utilisateur encourage à la violence.
-d3806707-e31a-44f4-b10a-c14d4d7bb527,6,2022-09-02 08:36:20.121578,Ce message est du spam ou des liens malveillants.
-7b8df00d-440e-4338-b8b2-e5f36fd324dd,7,2023-10-23 16:09:37.926695,L'utilisateur a partagé des informations trompeuses et fausses.
-67260b03-2a93-4637-a73b-5f1bf108f150,8,2023-04-14 10:14:44.700917,Ce compte utilise des images de violence explicite.
+308d24fc-1e70-4826-a97c-9aeabc4b6d19,0,2023-10-25 00:50:10.179129,L'utilisateur a partagé des informations trompeuses et fausses.
+ad9c6a9e-6346-4774-af6f-b0df01575045,1,2023-12-20 04:03:34.060922,Ce message est du spam ou des fraudes.
+449e40b3-febd-4bed-a4db-8dd5f7aea593,2,2023-06-23 16:33:06.899880,Ce message est du spam ou des fraudes.
+14ef6f48-2cbe-46c5-9dc7-53c49cb8148e,3,2023-11-08 05:03:22.965621,Ce compte utilise des images de violence explicite.
+09ab87eb-9785-4600-8187-6f8364de9612,4,2023-08-12 20:48:47.497233,Ce compte utilise des images de violence explicite.
+623f4626-bfab-46b3-bbd6-71b6b218e1d6,5,2021-12-04 15:50:22.725008,Ce contenu contient des insultes racistes ou discriminatoires.
+4c81967f-ea70-4fb5-b77a-2e1b2e98c8de,6,2023-07-20 12:51:54.500821,Ce contenu contient des insultes racistes ou discriminatoires.
+04f597d1-dfc4-44a0-a4d1-b94e1f2680c6,7,2023-11-11 17:58:48.425350,L'utilisateur encourage à la violence.
+268c18e2-1394-4445-bdb6-e0ead0a2911b,8,2023-07-22 19:36:13.504407,Ce message est du spam ou des liens malveillants.
+bb6de14c-8211-4b9d-8679-62b9b852bea2,9,2023-08-03 18:10:07.288597,L'utilisateur encourage à la violence.
+0a03d858-1794-470c-9a36-55d7ad035a22,10,2021-11-08 16:09:32.203064,L'utilisateur a partagé des images inappropriées pour un public jeune.
+3f3e20e8-e15c-4d4c-92c1-f7e8fb7371f9,11,2023-10-21 23:02:41.046142,L'utilisateur encourage à la violence.
+618a566d-2185-4afe-822b-2e350095e189,12,2023-12-18 12:11:41.588604,Ce contenu contient des insultes racistes ou discriminatoires.
+4d3b4ecb-721b-4721-9893-129ec0fd7f44,13,2022-02-22 15:15:14.519577,L'utilisateur a partagé des images inappropriées pour un public jeune.
+a9c503b3-24c0-49da-8284-a460b9018b5e,14,2023-06-07 10:32:02.206562,L'utilisateur encourage à la violence.
+3db59612-1a9c-4151-abf6-54f69edbf2b4,15,2023-11-21 15:57:36.615324,Cette publication contient des informations trompeuses et fausses.
+fc8718ba-bd94-44b9-b3c2-d1a88fc46ca0,16,2023-12-22 02:19:54.338821,L'utilisateur publie du contenu à caractère pornographique.
+21bb50a3-5c7e-45c5-8f1b-d3b24528ee75,17,2023-12-15 05:57:00.147166,L'utilisateur publie du contenu à caractère pornographique.
+6355febc-b7a5-4b00-af38-78e39b372c78,18,2023-07-05 03:40:14.240088,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+285cab88-0f08-4b02-bd9b-e4074836028a,19,2023-06-13 12:06:29.764585,Ce message est du spam ou des liens malveillants.
+0b34c2b6-0ff6-469f-95d2-caa70e7e499e,20,2023-06-27 23:14:37.734495,L'utilisateur a partagé des images inappropriées pour un public jeune.
+3af49eb6-00d5-4fc9-bfda-08e1227ca253,21,2023-12-27 18:43:06.649716,L'utilisateur a partagé des informations trompeuses et fausses.
+a03b7cd1-dce9-4618-a2ee-7e9559871fa4,22,2023-04-28 01:13:43.024439,L'utilisateur encourage à la violence.
+df0a68e8-b309-42c1-9d41-117376b978ed,23,2023-06-23 22:22:07.074333,L'utilisateur encourage à la violence.
+ef158784-1f86-416f-aca6-e2ab826d033b,24,2023-11-23 23:45:21.241165,L'utilisateur encourage à la violence.
+aaf1f53b-2e06-4bdc-9417-a5d458e107a1,25,2021-12-24 09:59:49.111394,Ce compte publie du contenu à caractère pornographique.
+a8c43899-26a8-4565-a975-268b58a8ad46,26,2023-06-20 08:42:20.259168,L'utilisateur encourage à la violence.
+15a7f915-1fb6-43e1-848d-a157f84dbaa5,27,2023-05-26 19:49:04.033676,L'utilisateur a partagé des informations trompeuses et fausses.
+b7ec8751-85df-45af-9ed0-5d4f2313dd08,28,2022-05-13 20:43:39.077249,L'utilisateur encourage à la violence.
+43a357da-8e78-4a35-aafe-c7d3760da67b,29,2023-05-05 15:31:24.825666,Ce compte publie du contenu à caractère pornographique.
+e98c5b0f-44fa-4b61-a178-30cb53c65b63,30,2023-04-10 19:38:06.093184,Ce contenu contient des insultes racistes ou discriminatoires.
+83b0bbf4-17a0-457f-b101-44957d7ae1dc,31,2023-07-29 04:16:58.983092,L'utilisateur a partagé des informations trompeuses et fausses.
+5b1078f7-5cb1-4d6e-ac24-c0beeaa24e09,32,2021-10-13 18:48:42.812722,L'utilisateur encourage à la violence.
+4fa8fb71-af81-488c-ab79-1a829e5cf8c9,33,2023-12-28 22:16:30.176129,Ce compte utilise des images de violence explicite.
+82753caa-83a5-4ab9-8bc6-ee76a3482551,34,2023-07-18 10:13:41.039441,Ce contenu contient des insultes racistes ou discriminatoires.
+c1a78088-f1cf-49c3-8513-18f28ed8dbcb,35,2023-11-05 06:47:08.820015,L'utilisateur encourage à la violence.
+70baeea3-891d-4f11-82ed-b7e897482ef4,36,2023-09-02 17:42:37.225009,Ce message est du spam ou des liens malveillants.
+73085d3e-3f38-49b6-964d-d29b6f89b756,37,2023-09-13 14:02:16.943902,HA
+c90cb531-eadf-4add-8213-802615383fa6,38,2023-10-21 22:52:45.838887,L'utilisateur a partagé des informations trompeuses et fausses.
+40ca92c3-c067-48d0-a09e-7ba4b3d837f7,39,2023-11-19 07:10:35.286509,Ce compte utilise des images de violence explicite.
+cdd87a3c-7b64-47d8-801d-424e4c10a74d,40,2023-12-29 15:21:56.930724,L'utilisateur a partagé des informations trompeuses et fausses.
+b4e3eaf9-d81f-4cd7-8a2c-56f567de2440,41,2023-04-28 23:29:53.690236,L'utilisateur a partagé des images inappropriées pour un public jeune.
+68a78aa7-1c4b-480a-8d52-886d6e88597d,42,2021-10-14 01:50:22.308451,Ce compte publie du contenu à caractère pornographique.
+5756f6f0-1c19-4c60-93ec-cb7dd1039ec7,43,2023-01-11 08:19:29.719613,Ce compte utilise des images de violence explicite.
+dcb015ad-db78-4a17-8256-71abe678a511,44,2021-11-28 07:03:33.156399,Ce message est du spam ou des liens malveillants.
+6c73aff3-4447-4f67-8312-4d0bbe7012a0,45,2023-10-27 18:34:27.289320,L'utilisateur encourage à la violence.
+a976ffc0-112c-44ee-9747-70b8d300f1d8,46,2023-10-18 05:24:01.563080,L'utilisateur a partagé des images inappropriées pour un public jeune.
+25b8578d-2732-4bb7-aeb3-b8acbfd494d8,47,2023-05-26 05:09:30.806273,Ce compte publie du contenu à caractère pornographique.
+c963f67e-fb91-4710-8b3f-f8490325e7a9,48,2022-11-04 18:34:33.302115,L'utilisateur publie du contenu à caractère pornographique.
+a428e729-9332-45b6-a94c-55ae582835f9,49,2022-06-30 20:11:46.710986,Cette publication contient des informations trompeuses et fausses.
+e174e19a-cd2f-4ee5-9488-f9ba014a548e,50,2023-12-07 00:34:06.590663,Ce contenu contient des insultes racistes ou discriminatoires.
+9477df4f-4e21-4297-9cb3-d06f556b2edc,51,2023-12-02 14:50:42.341854,Ce message est du spam ou des liens malveillants.
+d22edefa-1868-4659-a868-a1506c90cc3f,52,2023-10-18 14:36:53.626019,Ce compte publie du contenu à caractère pornographique.
+f90e974b-1b9d-45c4-9df5-98f6b5720984,53,2022-06-01 03:56:30.736972,Ce message est du spam ou des fraudes.
+f4e5d74c-4897-468c-857a-c86c0ce45d8d,54,2023-11-29 03:49:54.432905,L'utilisateur a partagé des informations trompeuses et fausses.
+ece7bd38-6bcb-4f09-a99f-f3f81eaf0741,55,2021-05-16 04:02:43.872793,Ce message est du spam ou des liens malveillants.
+98e612ee-1147-412b-8a7e-5194f06e5e07,56,2023-12-30 12:01:54.764770,Ce compte utilise des images de violence explicite.
+10529aa1-9d14-469d-8a58-359fd34bf7a9,57,2023-12-09 06:34:07.884049,L'utilisateur encourage à la violence.
+697197cf-d19d-4d8c-a8eb-d87608261b16,58,2023-12-09 09:52:17.687154,L'utilisateur a partagé des informations trompeuses et fausses.
+3cddc7fd-2641-4375-b3c8-3ac6b075d4ee,59,2022-07-30 14:14:42.562645,L'utilisateur publie du contenu à caractère pornographique.
+066a9194-6e7b-4ffc-90ff-933bf933c3cb,60,2023-09-14 03:14:54.641363,Ce contenu contient des informations personnelles sans consentement.
+8fa3d66a-265e-43d3-8ec1-23fa98047440,61,2023-12-08 00:33:40.696353,L'utilisateur encourage à la violence.
+64a0a751-0dfc-4028-a771-90f9558b3342,62,2022-11-11 18:53:21.260453,Ce compte publie du contenu à caractère pornographique.
+32c2aee8-17b4-475f-a770-8315816a766c,63,2023-05-16 00:35:47.016451,Ce contenu contient des insultes racistes ou discriminatoires.
+44f6bd79-056c-4432-991f-a14d4c50b1a1,64,2023-10-31 23:07:46.567997,Ce message est du spam ou des liens malveillants.
+b9735a84-6ae6-4b5e-bccb-ea979ba41b09,65,2023-12-25 11:25:15.444256,L'utilisateur a partagé des informations trompeuses et fausses.
+31758303-bf07-40dd-b125-c093f1351d18,66,2023-12-24 17:09:09.578167,Ce compte publie du contenu à caractère pornographique.
+429d7564-1b71-4328-af31-cc6e2c10482f,67,2023-12-17 21:10:15.078217,Ce compte utilise des images de violence explicite.
+cb9f7129-94ef-43b8-bad4-3816a50c4c0e,68,2023-05-13 14:59:08.679220,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+907f3e58-ae8d-49a9-9989-5e0eaa9aac92,69,2021-12-09 05:14:22.728613,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+eea345e8-f905-4273-a430-71cce925862d,70,2023-11-21 13:44:12.541016,L'utilisateur a partagé des informations trompeuses et fausses.
+b77faaa4-2788-4e03-b8ea-19a3e2e585f5,71,2023-07-27 17:10:54.946804,Ce message est du spam ou des liens malveillants.
+38d681d7-5856-432a-8e9c-acff88f4a52e,72,2022-06-05 19:13:10.655790,Ce compte publie du contenu à caractère pornographique.
+155c900d-b76f-48fc-a9f2-6b6aea1d65da,73,2023-08-05 10:48:37.298021,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+6ad6d2b4-db1d-4f28-bd15-94bfff3703f7,74,2023-11-23 05:39:48.744290,L'utilisateur a partagé des informations trompeuses et fausses.
+9b147fcc-6bfa-43d4-9e8a-39f99509ddc0,75,2022-12-26 17:20:48.578937,L'utilisateur publie du contenu à caractère pornographique.
+6bdc16dc-664c-4393-94b1-0c4b2ea49dc3,76,2023-12-30 08:16:48.358999,Ce message est du spam ou des fraudes.
+6d0dbba4-51fb-4356-92c3-fd6f32b21e16,77,2022-10-08 19:36:47.569188,Ce compte utilise des images de violence explicite.
+c532c680-6965-4d5e-8b5d-067e2de8282b,78,2023-03-05 18:46:52.553412,Ce contenu contient des insultes racistes ou discriminatoires.
+fbf54492-4da0-4d98-b6e9-185cdcbd4cb0,79,2023-05-12 10:01:45.263183,Ce message est du spam ou des fraudes.
+de20e3fb-8d7a-433c-9e67-3764abf08509,80,2023-12-04 12:40:53.484375,L'utilisateur encourage à la violence.
+39e6cdcd-e414-4778-ad34-f71ff1e68238,81,2022-09-19 06:27:57.130182,Ce contenu contient des insultes racistes ou discriminatoires.
+3923b1f1-1369-4cc1-a078-5da25b779bcb,82,2023-11-07 23:21:08.419563,Ce message est du spam ou des liens malveillants.
+1bf2b0e7-5cc2-4e26-8925-98019f449291,83,2023-11-04 19:15:11.557712,Ce compte utilise des images de violence explicite.
+88d19090-fbb0-4511-832c-5a89af099995,84,2022-11-03 10:03:31.727133,Ce message est du spam ou des liens malveillants.
+783d82df-4bba-4a19-adfe-3c23772d826c,85,2021-02-23 15:12:16.923338,L'utilisateur encourage à la violence.
+cf3cc3a9-a41a-457d-9325-df895b332d84,86,2023-12-24 19:53:11.162576,Cette publication contient des informations personnelles sans consentement.
+3101e1ab-9ce9-411e-a103-c33e6ee1e84e,87,2023-12-27 17:25:34.750172,Ce compte utilise des images de violence explicite.
+482b8584-9a6e-496d-8900-fad6853d2dde,88,2023-08-03 23:22:36.109169,Ce contenu contient des insultes racistes ou discriminatoires.
+7ab73b0b-5658-401c-af92-124e838a719a,89,2023-12-08 04:27:59.796929,Ce message est du spam ou des fraudes.
+ccea0289-3acd-407c-a91e-6f5deb31f87d,90,2023-06-06 01:40:52.461895,Cette publication contient des informations trompeuses et fausses.
+cda024ba-003c-4ea4-8108-3fc97af7aa4d,91,2023-12-04 18:45:35.340471,Cette publication contient des informations trompeuses et fausses.
+7b6d109f-1d80-4b64-9905-911e914b5f9c,92,2023-06-25 12:56:22.660927,Ce contenu contient des insultes racistes ou discriminatoires.
+d0c2ce0e-8380-49f1-ad65-33aa73411003,93,2023-12-21 05:54:22.686267,L'utilisateur encourage à la violence.
+ae932478-6288-4fce-b0b7-69594e520481,94,2023-09-13 23:03:58.086874,Cette publication contient des informations trompeuses et fausses.
+a708d303-6dca-4ffd-8a9a-644feb9b78b9,95,2023-12-12 23:20:02.189721,L'utilisateur encourage à la violence.
+54d64718-cae5-485f-b79b-0ef20441c73a,96,2021-07-10 15:34:56.519139,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+992788ea-4a64-4789-a33c-3449b95df31a,97,2023-04-12 16:26:25.285988,L'utilisateur encourage à la violence.
+b067f34f-a02d-411a-b3d2-773a083c95f5,98,2023-10-29 18:48:05.071757,Ce message est du spam ou des fraudes.
+62de22cd-1a80-4c98-9307-ed1258f9afa3,99,2023-07-29 19:06:20.870096,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+34eecbef-c5d3-4c93-9971-f1994b9500a7,0,2023-08-23 03:50:44.920249,Cette publication contient des informations trompeuses et fausses.
+b773871a-787d-4388-b513-7bc4fe85a9b3,1,2023-12-27 17:52:58.582406,L'utilisateur encourage à la violence.
+81004ee5-7afa-4b6f-b4c4-befb21461c7b,2,2022-04-11 00:04:02.380998,Ce compte utilise des images de violence explicite.
+79107d61-6c77-4be6-88dc-f7ddfa0bf15c,3,2023-04-30 16:43:10.717086,L'utilisateur encourage à la violence.
+cf806122-d867-464d-9429-0ce42b8ebe09,4,2023-11-25 22:42:05.261181,L'utilisateur encourage à la violence.
+41373ce0-8654-499f-a584-d5fceec85680,5,2023-06-26 17:53:46.570422,L'utilisateur publie du contenu à caractère pornographique.
+d3dddecb-2b12-433e-8541-f9e64064cb4d,6,2023-11-14 18:34:21.107779,Ce compte utilise des images de violence explicite.
+b8a4eb7c-7856-4ac5-b532-e66fb2880df2,7,2023-12-15 14:36:12.382745,Ce compte utilise des images de violence explicite.
+389cd3a2-6c72-43f6-8165-295a92783a6c,8,2023-07-06 04:54:13.414027,Ce compte utilise des images de violence explicite.
+809879fe-4f79-4d41-b9da-3f3cda806a03,9,2023-08-14 12:44:14.891168,Cette publication contient des informations trompeuses et fausses.
+27b0e65a-dd25-4796-9143-eda99abe5636,10,2023-10-06 06:58:43.443765,L'utilisateur a partagé des images inappropriées pour un public jeune.
+19a6d407-6816-47db-9b52-4769df3ccba8,11,2022-12-30 20:47:24.515366,Ce message est du spam ou des liens malveillants.
+3a7948ff-35d6-4366-b18e-e63496692380,12,2023-08-18 20:05:04.076571,Ce message est du spam ou des liens malveillants.
+57eb8fb4-9eaf-4f2e-92f0-b95e988f8e0d,13,2023-12-21 18:17:47.031524,Ce compte utilise des images de violence explicite.
+0cd78508-1d64-439a-9cec-069c9ec41b35,14,2023-06-03 17:26:25.339508,Ce message est du spam ou des liens malveillants.
+d01e8f4c-ef4c-43cb-94ac-7719d3f65d79,15,2023-12-10 07:53:13.345561,Ce compte utilise des images de violence explicite.
+c119b71b-fe4b-477e-ad0a-9e31b4ecf791,16,2023-03-07 10:48:49.969197,L'utilisateur publie du contenu à caractère pornographique.
+d7194be3-ecd1-43ab-a6be-f7b68e1a7f63,17,2023-07-30 15:33:23.511327,L'utilisateur encourage à la violence.
+f795d89d-75a9-49c2-bb72-415e7ceeb7f9,18,2021-09-23 18:11:36.616014,L'utilisateur encourage à la violence.
+944da0d4-dbeb-4bc5-a0d8-6d53953e7045,19,2023-03-09 08:11:26.037612,Ce compte utilise des images de violence explicite.
+a5104552-2ff7-44c3-96cc-2d9a6eace2e9,20,2023-08-29 14:52:58.794696,L'utilisateur a partagé des informations trompeuses et fausses.
+02b14177-1a5e-474e-bcb4-1c1c954f4497,21,2023-12-29 21:03:38.914840,Cette publication contient des informations personnelles sans consentement.
+f0b6653c-d219-4450-b279-beedceeda51f,22,2023-08-24 23:50:31.458137,Ce message est du spam ou des fraudes.
+34da0340-66c5-42c1-a939-6bf789c5155f,23,2023-12-31 20:32:02.937159,Ce contenu contient des informations personnelles sans consentement.
+d319d238-73b9-4f0d-b7e6-29a058680406,24,2023-10-28 04:54:04.299302,Ce contenu contient des insultes racistes ou discriminatoires.
+599fe437-4f89-4461-9463-2ca710264106,25,2023-02-09 03:53:35.081713,Ce compte publie du contenu à caractère pornographique.
+0a9baddb-bfc4-4e8d-bccd-bc6bf3957af6,26,2022-06-14 20:20:54.428854,Ce message est du spam ou des fraudes.
+d3d95de6-de2b-451c-b1fc-173964cef191,27,2023-09-28 09:37:31.512906,L'utilisateur a partagé des images inappropriées pour un public jeune.
+e9445a7c-04c8-43c4-8a22-fb9b3a51f6bb,28,2023-09-02 01:09:30.828041,Cette publication contient des informations personnelles sans consentement.
+f70c2674-7a74-4b18-9ea0-173593e5e4e2,29,2023-12-28 00:08:39.630696,L'utilisateur publie du contenu à caractère pornographique.
+c1e5d485-e90f-41e5-a24a-105e3bb4bdc8,30,2023-12-04 22:59:44.227002,L'utilisateur a partagé des images inappropriées pour un public jeune.
+899ac79f-d369-4871-a631-8fff7b8eab94,31,2023-12-11 23:05:31.835121,L'utilisateur publie du contenu à caractère pornographique.
+40f834be-685a-43cd-a4fd-4a3c3ea24ec6,32,2023-12-30 14:33:01.472001,Ce message est du spam ou des fraudes.
+4572166b-c139-4f34-90e0-b20c5a51adc7,33,2023-08-23 23:46:10.855888,L'utilisateur a partagé des informations trompeuses et fausses.
+13e1ae64-cbdd-4105-8780-b8c3c0840292,34,2023-09-23 11:00:35.621218,Ce message est du spam ou des liens malveillants.
+236d1501-9dae-4bad-b41d-db4b142909f0,35,2023-10-12 20:32:38.378235,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+0936e488-9f5a-4e23-bd0e-557349a1e296,36,2023-07-22 01:24:44.665942,L'utilisateur a partagé des informations trompeuses et fausses.
+9ce56fe0-2e20-4568-b875-4dac9155443a,37,2023-10-01 10:43:44.257911,L'utilisateur encourage à la violence.
+a2e2745b-5427-4a24-b59d-5fab24a54fe3,38,2023-11-13 02:10:05.621823,Ce compte utilise des images de violence explicite.
+cd566090-3fc3-4082-9ae9-976c730ea78d,39,2023-12-10 19:29:20.091844,L'utilisateur encourage à la violence.
+16f1db52-e292-4c05-9390-79382f83a301,40,2023-11-07 20:01:34.680001,Ce compte utilise des images de violence explicite.
+55ead935-bbef-4555-b7e3-28502ac08a69,41,2023-01-10 23:06:42.797116,Ce contenu contient des insultes racistes ou discriminatoires.
+bf8b0d24-9bc6-4e81-9c56-be0eafdbb193,42,2023-12-11 10:31:25.115328,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+4ebb6953-db72-4656-a4db-b6680cc66c43,43,2023-12-04 16:45:21.130790,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+a29c3462-01e3-4600-ad8d-257f603729f3,44,2023-11-06 06:11:55.698266,Ce contenu contient des insultes racistes ou discriminatoires.
+f65bf1c2-1754-417c-9931-94d053dc118b,45,2023-10-30 20:39:46.749768,L'utilisateur encourage à la violence.
+5c7b1d7e-cc2b-4c33-9756-1f5dd0b15b20,46,2022-05-02 05:03:38.811003,Ce compte publie du contenu à caractère pornographique.
+6671401f-d49e-4f42-98e0-92e4efff3409,47,2023-10-23 08:41:59.068970,Ce compte utilise des images de violence explicite.
+e5d1b546-4666-4ebf-b4a4-a43f8b421a36,48,2023-12-04 17:05:58.100402,Cette publication contient des informations personnelles sans consentement.
+cf3ca244-ac6a-4e38-8e97-a431df353c60,49,2023-02-03 09:21:04.966055,Ce compte publie du contenu à caractère pornographique.
+fad6e928-4471-44e7-89c7-398b98834882,50,2023-10-07 01:22:13.399618,Ce compte utilise des images de violence explicite.
+d437d732-c043-4cae-ac27-7e190a9cb0dc,51,2022-08-02 08:39:39.585355,L'utilisateur publie du contenu à caractère pornographique.
+4661d1f2-4e71-4e8e-b596-5378ab226834,52,2023-12-18 08:39:37.232935,L'utilisateur encourage à la violence.
+35f52cbb-3a45-4ff4-b9d3-ab8b77d00edb,53,2022-06-28 03:06:54.388938,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+38b44699-5f62-47c5-afb4-c21373e2b5df,54,2023-11-21 05:00:42.841760,L'utilisateur encourage à la violence.
+00f6636b-846f-4fa5-9b70-c407f12a373c,55,2023-05-02 10:28:14.314762,L'utilisateur encourage à la violence.
+6dbdef1f-6e6a-49d9-bc90-391a147aa3c7,56,2023-11-11 16:06:45.705264,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+702048f3-c3f7-4cfe-87d0-fcc6336f63be,57,2023-11-16 20:23:51.298235,Ce contenu contient des insultes racistes ou discriminatoires.
+ba636996-149b-44c5-bdef-061b6b5ee573,58,2023-11-27 13:54:00.508441,Ce message est du spam ou des fraudes.
+632219e5-215e-4bc1-ae2b-1bbb518e78fd,59,2023-11-27 09:27:21.666924,Ce compte utilise des images de violence explicite.
+802f48c7-e482-47b9-ac84-ed4be4ca48e3,60,2022-10-29 19:02:27.008937,L'utilisateur encourage à la violence.
+f17c6ffc-f9e5-4d86-927c-9c7a18b2c94b,61,2023-11-09 06:06:34.810875,Ce compte utilise des images de violence explicite.
+07493eac-6bb0-4e15-99b7-09f7c1554271,62,2021-12-07 05:19:06.646878,Ce compte utilise des images de violence explicite.
+0bcb65ee-0356-4953-aa2d-521a8e8d547d,63,2023-08-01 18:00:20.709920,Ce compte publie du contenu à caractère pornographique.
+61c92e8b-93cb-4746-a009-fe895d02da67,64,2023-05-24 10:27:37.743498,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+5c8b8495-0889-40bd-97fa-7aab3e7a2587,65,2022-10-27 12:55:14.766098,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+d341b5c5-4f56-4ceb-bdce-792c3314edf7,66,2023-09-16 01:12:02.846833,L'utilisateur a partagé des images inappropriées pour un public jeune.
+a81f8e2d-3eb5-49dd-8a02-0efba210f14b,67,2023-12-17 18:19:19.200710,L'utilisateur encourage à la violence.
+0f797882-e5eb-4dd9-9332-a19c8a2893db,68,2023-04-26 16:38:26.347025,Ce compte utilise des images de violence explicite.
+a17deb17-65ff-45c0-ad87-0feb5ad07e96,69,2023-08-07 18:01:03.295385,Ce contenu contient des insultes racistes ou discriminatoires.
+2f43ba75-8aee-4109-ab8f-b65deb23157f,70,2023-12-25 09:18:13.462546,L'utilisateur a partagé des images inappropriées pour un public jeune.
+8a2ad7c7-ae1c-4dfb-9703-9f2d94dd4313,71,2022-10-16 02:39:27.593361,L'utilisateur publie du contenu à caractère pornographique.
+8fe1eea9-09d6-47e2-9ca1-4d32300ca352,72,2023-11-22 02:18:24.281596,Cette publication contient des informations personnelles sans consentement.
+63113d8a-ccb7-430e-8383-02ffd0080628,73,2021-07-24 15:39:17.159519,Cette publication contient des informations personnelles sans consentement.
+6e3c357b-7fec-473c-ad85-52b2f5df31d4,74,2023-12-19 16:19:42.897767,Ce compte utilise des images de violence explicite.
+a6de0776-7fe2-4c3e-b8d8-97800161f2ce,75,2023-11-12 16:41:55.634477,L'utilisateur publie du contenu à caractère pornographique.
+1135a13b-c99d-4b93-85b3-c0ffb635a404,76,2023-12-27 23:03:45.995416,Cette publication contient des informations personnelles sans consentement.
+522e38f9-b0be-46ff-bb23-721506c058ac,77,2023-12-30 07:23:26.387741,Ce message est du spam ou des fraudes.
+bb34871b-c1ef-4aeb-adcf-d8ee0883566c,78,2023-11-27 05:00:04.852483,L'utilisateur encourage à la violence.
+937281cc-77f8-41b3-9384-581fbb30d247,79,2023-11-23 12:09:21.536979,L'utilisateur a partagé des images inappropriées pour un public jeune.
+5865a2cb-08fb-4053-8951-8a3e624b4f62,80,2023-12-02 00:24:51.784716,L'utilisateur encourage à la violence.
+4dc748b1-af95-4c66-abee-3fcb5d4c0b0c,81,2023-06-01 12:27:50.198594,Ce compte utilise des images de violence explicite.
+623df452-9730-4c20-b128-caa28456eb0e,82,2023-07-08 07:43:34.065226,HA
+84897495-6df3-412e-9446-01ee90f8e953,83,2023-10-15 18:24:58.823886,L'utilisateur encourage à la violence.
+33d2f734-31eb-4bc1-9cc6-065973923dc5,84,2022-07-26 00:42:08.242825,Cette publication contient des informations personnelles sans consentement.
+6955ed2d-39a9-4bdc-a234-e7ab1aff2742,85,2022-12-03 15:05:52.144271,L'utilisateur encourage à la violence.
+1260adb1-7be4-4242-9d4a-3e971f28d454,86,2023-11-15 11:32:11.263604,L'utilisateur publie du contenu à caractère pornographique.
+2e1abb4a-edc3-4ae2-9a52-17fe5b9b56ae,87,2023-08-31 23:29:56.582131,Ce contenu contient des insultes racistes ou discriminatoires.
+68e5b816-2a7b-4718-90be-84074b1d5c80,88,2023-08-01 12:25:51.766549,L'utilisateur encourage à la violence.
+b06bff53-1cdf-440c-bd58-b2d8c2023f56,89,2023-10-28 19:20:31.955087,L'utilisateur a partagé des informations trompeuses et fausses.
+391ffccb-9b87-42d6-8cb9-5d9eef16f2d0,90,2023-10-03 20:39:34.421411,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+a89aeb92-eb0a-41f5-aafc-ea482062c6df,91,2023-03-13 15:11:30.130737,Cette publication contient des informations trompeuses et fausses.
+8e1baedc-1f4c-4eca-a05d-a656c526349a,92,2023-02-08 15:22:38.776893,Ce compte utilise des images de violence explicite.
+2126cdb8-2918-4beb-ad72-ba0bd1c01f05,93,2023-12-14 03:51:09.647139,Ce message est du spam ou des fraudes.
+61b8fb22-db71-4305-b111-4776ee12d32c,94,2022-12-17 01:22:41.991078,L'utilisateur encourage à la violence.
+529db827-aae7-4c5f-b4be-0656ee00587f,95,2023-12-18 02:41:57.677386,Ce compte utilise des images de violence explicite.
+7095425a-faa0-4444-bd6f-0f5da6cfbc2f,96,2023-04-28 02:49:20.928874,L'utilisateur encourage à la violence.
+08d05f53-8855-4ecb-8508-27fabddd74be,97,2023-12-01 15:20:27.756021,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+509d89a4-5289-4aaf-9e6d-960546734788,98,2023-10-16 09:39:28.787780,L'utilisateur encourage à la violence.
+92b93f4b-9f9e-446e-8209-9edb6d1aff82,99,2023-09-17 19:28:02.538226,L'utilisateur a partagé des informations trompeuses et fausses.
+ec174e95-63dc-4e3c-8faa-33e8c3ca25bd,0,2023-05-03 05:58:00.966497,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+6a11bd72-57c1-4b76-946c-8966d7badfa8,1,2023-10-01 09:53:23.837899,Ce compte utilise des images de violence explicite.
+f67f72e6-bb80-4f3e-90ee-8ea0d4717240,2,2022-05-03 23:58:17.811762,Ce compte publie du contenu à caractère pornographique.
+4a69d68c-becc-42c0-9268-c41cf90bcdf3,3,2023-12-16 12:59:05.117401,L'utilisateur publie du contenu à caractère pornographique.
+01444b94-7757-4a65-b5b4-215f8b3874a4,4,2022-06-23 05:10:34.477723,Ce compte utilise des images de violence explicite.
+1158fe67-e6fe-4db6-a697-e38496567cf2,5,2023-07-21 13:09:37.027312,Ce compte utilise des images de violence explicite.
+b5b72b12-8fb1-4a18-8b5a-4bd87524d835,6,2023-12-22 21:58:04.518652,Ce contenu contient des insultes racistes ou discriminatoires.
+51544709-3820-4508-aff3-239d1f17a88a,7,2023-12-26 21:44:18.462807,Ce message est du spam ou des liens malveillants.
+9e1a47a1-e019-4794-924f-9c29e6d46def,8,2023-06-29 23:41:27.061897,Ce contenu contient des insultes racistes ou discriminatoires.
+3e9c3582-6b53-485b-8357-6cb9fca2766a,9,2023-06-22 04:42:46.937918,Ce message est du spam ou des fraudes.
+c7ba6c00-2366-45d0-80cb-aded9881ec97,10,2023-09-17 19:46:11.222631,L'utilisateur a partagé des images inappropriées pour un public jeune.
+7fc2346d-226a-41c8-930b-8fb7010aba5f,11,2023-12-31 10:56:56.447874,Ce compte publie du contenu à caractère pornographique.
+2d668119-0d5d-44b6-a1a7-06d766de2842,12,2023-12-23 22:31:07.288003,Ce contenu contient des insultes racistes ou discriminatoires.
+30974f28-11c8-4dff-8a10-f425204dae0f,13,2023-12-08 08:52:36.200713,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+cb50708d-1a4b-4c8f-ad18-c661dd09a0bb,14,2023-11-19 16:13:47.357211,Ce compte publie du contenu à caractère pornographique.
+20b57e67-500c-41f1-a4d3-7f3659f62c8e,15,2022-10-26 08:02:01.374622,L'utilisateur a partagé des informations trompeuses et fausses.
+3674975d-c25b-4c66-be98-92acdb4829f3,16,2023-12-18 21:51:20.669975,L'utilisateur encourage à la violence.
+602116e0-dc73-4977-9e34-40a5baf3c97c,17,2023-12-31 12:19:09.060514,Ce message est du spam ou des liens malveillants.
+0c82113d-174a-42cb-9c62-1dcc5a9047e3,18,2023-12-07 05:29:03.742200,L'utilisateur a partagé des informations trompeuses et fausses.
+0e14d1bf-5582-437e-acf5-c318be3bb22d,19,2023-06-13 03:53:26.330644,L'utilisateur a partagé des informations trompeuses et fausses.
+9bc3e6fe-35b9-48b5-90c4-f7fd7cd7fb32,20,2023-12-17 00:35:49.792525,Ce compte publie du contenu à caractère pornographique.
+e0e643f0-e559-4469-a55d-7316b518a97f,21,2023-08-21 05:02:18.108707,Ce message est du spam ou des fraudes.
+58320d1b-5b7f-4588-b8a0-6f6521b9c9ad,22,2022-06-24 15:29:03.807440,L'utilisateur publie du contenu à caractère pornographique.
+38ac5ccf-1412-496a-a847-9367a9774fb6,23,2023-08-28 04:59:59.213944,HA
+1d000c3d-c9f1-45cd-a74c-ba828410e111,24,2023-12-27 01:33:49.570213,L'utilisateur encourage à la violence.
+0174a829-ec72-4aec-a43f-1f4e6d81ef49,25,2023-05-04 22:34:15.921682,Ce message est du spam ou des liens malveillants.
+50666c9d-6be9-4f49-b8ae-0b4a59af8af4,26,2023-12-11 09:38:48.321777,Ce message est du spam ou des liens malveillants.
+f678bf3a-ecf1-43c2-b3ba-95191dfda408,27,2023-02-09 01:32:17.382531,L'utilisateur encourage à la violence.
+ee3e91ec-d72e-45fa-978a-575d219adecc,28,2023-12-07 20:07:26.615450,Ce compte publie du contenu à caractère pornographique.
+e6367d0b-ad4e-4fd5-8557-96f0a008a992,29,2023-10-03 04:49:04.168565,L'utilisateur encourage à la violence.
+2960e154-43a0-41ef-abcb-a759ce68bb81,30,2023-12-03 00:32:39.892844,Cette publication contient des informations trompeuses et fausses.
+e6d3ee4c-73a8-45da-929e-dcaa654c0567,31,2022-12-10 16:56:42.404259,Cette publication contient des informations personnelles sans consentement.
+0338c3f7-fbf9-4147-925c-95cb7b944a8d,32,2023-10-12 15:03:23.068399,HA
+cae2a163-ef63-48dd-a3e6-b377f4c3fc76,33,2022-11-28 17:23:25.844237,Ce contenu contient des insultes racistes ou discriminatoires.
+537bb679-cb4f-4834-932b-a078fe2bf010,34,2023-06-10 16:31:36.350566,Cette publication contient des informations trompeuses et fausses.
+d9025ae9-4b17-4d79-80fb-4853c6643d9c,35,2023-11-22 10:44:46.588179,L'utilisateur encourage à la violence.
+ec4dadc2-b376-486b-880c-08d65f64c149,36,2022-05-16 14:18:50.796615,L'utilisateur a partagé des informations trompeuses et fausses.
+289f5065-1f9c-4cde-8a1d-c690bb922513,37,2023-12-25 14:13:15.755680,L'utilisateur encourage à la violence.
+7434bfb7-1018-4218-ab6d-ce6e52389987,38,2023-12-19 16:02:53.569232,Ce message est du spam ou des fraudes.
+f74edfd7-5933-4ec3-8cb7-e66283442e3f,39,2023-09-21 00:16:52.175451,L'utilisateur encourage à la violence.
+c64f05a2-5253-446d-ac15-47b06b79d338,40,2023-06-25 04:24:08.661923,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+ae3d406e-cf78-41a5-81ba-3e75bd8b6bd3,41,2023-05-31 17:53:39.150974,L'utilisateur encourage à la violence.
+b50e1af3-f03b-48c9-bb5e-0904d0b51eb6,42,2023-07-31 05:04:01.892874,L'utilisateur a partagé des images inappropriées pour un public jeune.
+2599c560-9cfa-477b-9698-ee9b9169403f,43,2023-09-15 03:43:39.357681,Ce contenu contient des insultes racistes ou discriminatoires.
+7dbd9691-2017-4c6a-af83-120909979eed,44,2023-07-04 21:25:36.035663,Ce contenu contient des insultes racistes ou discriminatoires.
+e2060320-c408-4e3a-8c23-bfc192516444,45,2023-12-23 09:06:30.027956,L'utilisateur a partagé des informations trompeuses et fausses.
+079daba1-9ee5-4141-b5cb-45c84e2d602d,46,2023-08-10 05:10:11.166723,L'utilisateur a partagé des images inappropriées pour un public jeune.
+685ffad9-e725-4ba2-8de3-9e5b27d1cf71,47,2023-12-17 14:48:20.165701,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+fd47ac1f-24a0-40f9-acca-a40dda73c89c,48,2022-11-01 18:17:07.627455,L'utilisateur a partagé des informations trompeuses et fausses.
+f806ada3-00a8-462f-9d04-6aa8c161d79e,49,2023-11-02 18:47:09.257031,Ce compte publie du contenu à caractère pornographique.
+54b57605-5c2b-4246-9cde-30a5ba9cd7e9,50,2023-12-22 01:50:17.724840,Ce compte publie du contenu à caractère pornographique.
+68fca15c-7b9d-4269-84cd-cc979a86ce96,51,2023-12-15 19:02:15.750117,L'utilisateur a partagé des informations trompeuses et fausses.
+b95a8918-6d41-4983-86db-b72cac89d802,52,2022-12-14 07:29:50.648488,L'utilisateur a partagé des images inappropriées pour un public jeune.
+f8d00e4a-c0fa-4e59-9665-a247773156c4,53,2023-05-12 11:25:38.275482,Ce contenu contient des insultes racistes ou discriminatoires.
+508ef2f6-abe1-4ef6-8e1d-71f3b69a57d9,54,2023-10-09 19:37:27.849928,L'utilisateur encourage à la violence.
+a9331017-944b-4455-9802-fd19229cefbb,55,2023-12-02 00:08:31.619737,Ce message est du spam ou des liens malveillants.
+acfe0e9f-57b8-4dbd-9bfe-b6d210cdbfe5,56,2023-11-27 19:59:34.582833,Ce contenu contient des insultes racistes ou discriminatoires.
+58223d25-fbe8-4201-8344-00c8421b5721,57,2023-12-31 15:51:02.346740,L'utilisateur encourage à la violence.
+a3f75e0f-b415-46b5-90db-3e1f078507ef,58,2023-11-13 13:28:53.184341,Ce message est du spam ou des fraudes.
+48e8628f-3870-4506-8c63-25010cfd57ec,59,2023-12-10 11:17:23.010776,Ce contenu contient des insultes racistes ou discriminatoires.
+de0ffc0a-36a9-45d9-a227-33a163e467a0,60,2021-07-13 22:02:03.820769,Ce compte publie du contenu à caractère pornographique.
+f7c64c6d-43db-4533-9155-b85b6c9b6c51,61,2023-08-18 11:36:25.208280,L'utilisateur encourage à la violence.
+8e1940b6-b479-4b03-a638-b92e3c9ccf88,62,2023-11-16 10:33:42.656251,L'utilisateur a partagé des images inappropriées pour un public jeune.
+3ceca5c8-6766-4f2c-8cc1-7eeca0dc279f,63,2023-08-20 04:43:20.772303,HA
+37e02072-8732-44dc-8cbc-089ddcab0084,64,2023-12-14 23:11:41.147648,Ce compte utilise des images de violence explicite.
+ecdb0314-032c-4b27-b21c-71f36a31fa79,65,2023-09-20 08:33:50.586623,HA
+034db792-7734-4dc4-aab2-19706c900c07,66,2023-02-20 07:09:51.714282,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+3b943547-8b42-4269-b09c-d1d801cd8fcc,67,2022-04-17 23:45:28.900319,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+9d73a354-eb52-4a34-a518-1762ba649f6c,68,2023-12-03 03:18:06.432852,L'utilisateur a partagé des informations trompeuses et fausses.
+933a5077-c9f2-449a-9c3d-ef5d9b4617df,69,2023-11-27 04:43:20.313872,L'utilisateur a partagé des informations trompeuses et fausses.
+329de21d-12c1-4ef1-83af-37520332ff39,70,2023-12-31 03:56:16.633165,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+41ca4d96-f2e2-4a6f-9cda-32093c4359bc,71,2023-12-12 01:16:56.050585,Ce contenu contient des insultes racistes ou discriminatoires.
+e675872c-a716-4798-9353-a5f6b4ac0e5e,72,2023-04-01 15:27:22.883279,L'utilisateur encourage à la violence.
+323ac996-9c19-4e9d-ae07-40e799fae4ed,73,2023-12-27 18:06:12.613259,Ce contenu contient des informations personnelles sans consentement.
+c5bcfe0c-2ecb-4de9-b046-c63a28f594e2,74,2023-07-14 17:42:57.774959,L'utilisateur encourage à la violence.
+8238e1bf-b035-4e38-8b92-a3d387c5e9b2,75,2023-08-19 08:38:29.192623,Ce contenu contient des insultes racistes ou discriminatoires.
+542df46b-c905-4054-8c85-1e3cf0d3a6cc,76,2023-02-14 07:28:58.571210,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+a8c0e011-0600-41ce-a94d-29f730681a4e,77,2023-12-18 01:18:57.676401,Cette publication contient des informations personnelles sans consentement.
+d353ab11-2bbf-4c3e-8f9f-d9f19b6ef95e,78,2023-12-25 15:13:49.192824,L'utilisateur publie du contenu à caractère pornographique.
+cd669ee4-e0d5-49c7-a056-06c784bd5281,79,2023-06-25 00:44:59.400493,L'utilisateur a partagé des images inappropriées pour un public jeune.
+48a4f5b4-9aa8-461b-9500-85cb1df45b28,80,2023-05-20 00:39:40.192878,L'utilisateur encourage à la violence.
+a2867ab5-4493-4bfd-89ac-52b49665f1f8,81,2021-01-14 17:37:16.080727,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+db7c4dee-e89a-4c12-94de-6e19ed244887,82,2023-12-20 08:32:40.143367,L'utilisateur encourage à la violence.
+fe02f134-6879-434e-ba2d-115a0a8d21c8,83,2022-04-05 01:23:18.037141,Ce compte utilise des images de violence explicite.
+6c4a6740-3a6c-41bf-bc1a-dda3d70c212e,84,2022-03-22 13:55:28.284863,Ce compte publie du contenu à caractère pornographique.
+64186761-21d5-4813-92aa-bfb84852fef6,85,2021-10-28 13:17:09.976060,Ce message est du spam ou des liens malveillants.
+834960ff-1fb6-455e-aafa-aadbd523a13f,86,2023-12-14 00:59:08.049652,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+a835122a-e254-417a-bddf-7f5e8901ab58,87,2021-07-09 07:40:04.718371,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+40fe390b-b46c-4f2b-971a-5372bef5e996,88,2020-11-29 15:38:25.479042,L'utilisateur encourage à la violence.
+a2e6255a-4219-49a9-a5df-e2cdff9b4823,89,2023-11-29 08:45:34.985350,L'utilisateur encourage à la violence.
+0e50d279-a1ea-4bc3-97aa-3c2c83ded66b,90,2023-12-20 19:23:12.472448,Ce compte publie du contenu à caractère pornographique.
+16a5f682-4373-42c0-925e-b9c95e5b0d35,91,2023-09-24 01:19:36.318398,L'utilisateur encourage à la violence.
+4fd3d6b0-f460-4df1-baae-251de1993b8b,92,2023-05-01 00:47:11.717945,Ce compte utilise des images de violence explicite.
+969b3e83-40e2-4ec2-8b38-7125172eabcf,93,2023-12-28 06:29:30.916426,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+6d1f4ea0-647d-48b8-817e-b8c31e44bd64,94,2021-05-07 00:06:14.151742,Ce message est du spam ou des liens malveillants.
+b78a9381-8d33-416a-944c-8af28672ab02,95,2021-12-02 03:17:45.368466,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+32f0d095-a8ea-4512-9e77-7542751e97c9,96,2023-11-15 20:38:58.844524,Ce compte utilise des images de violence explicite.
+16592428-ca60-4304-b4d5-b46fe6dfa1e3,97,2023-07-05 17:15:21.160934,L'utilisateur encourage à la violence.
+4e6e70f6-eda4-4049-8515-1054ba403432,98,2022-10-27 03:32:06.411184,Ce contenu contient des insultes racistes ou discriminatoires.
+ee4183a6-4c43-4a7b-80d3-1580a7e50995,99,2023-12-27 16:39:11.652457,Ce compte utilise des images de violence explicite.
+3ce4481c-0c10-4223-b296-ca1de45116d8,0,2023-02-20 00:24:42.135373,L'utilisateur a partagé des informations trompeuses et fausses.
+9f53b1b2-a943-4b0d-a964-c064491f5b07,1,2023-12-26 19:06:24.028422,Ce message est du spam ou des fraudes.
+f24c8587-3252-44c9-90c7-fe7c599c29f5,2,2021-02-27 07:07:55.077928,Ce message est du spam ou des liens malveillants.
+8199b332-64f8-407c-b125-43813d75f896,3,2023-05-21 01:26:02.071348,Ce message est du spam ou des liens malveillants.
+b422ca03-ccae-49df-b6a5-386d99d118cd,4,2022-11-30 04:24:02.672368,L'utilisateur a partagé des images inappropriées pour un public jeune.
+d9e55e21-4c30-4208-be87-676388139637,5,2023-11-26 05:12:57.203763,L'utilisateur publie du contenu à caractère pornographique.
+a49493a3-5f71-437a-ae2a-c20f9a6e343d,6,2022-10-03 08:34:59.420622,Cette publication contient des informations trompeuses et fausses.
+4295096a-6bee-4d7e-96dd-9d8cfcac9984,7,2023-03-11 02:47:20.052061,Ce compte utilise des images de violence explicite.
+e73d910d-51e9-4bcd-9062-cb28e0c8cda3,8,2022-01-18 17:46:59.179426,L'utilisateur encourage à la violence.
+9960cde7-350d-4b62-bacf-c0d8b453bbb3,9,2023-12-23 04:06:18.365276,Ce compte publie du contenu à caractère pornographique.
+7e15ff1d-c837-4566-b9ba-1dcc447e55d5,10,2023-11-09 00:22:45.467976,Ce message est du spam ou des fraudes.
+0f3f6b79-8fbe-41f8-909e-603dd9b8f765,11,2023-11-13 11:53:02.692773,Ce contenu contient des informations personnelles sans consentement.
+5a4fbfa4-9f30-4663-8219-a5342ef76be0,12,2022-09-08 15:29:54.037431,Ce compte utilise des images de violence explicite.
+53a8baf9-be63-4df6-b767-20fb1aa49e69,13,2022-11-18 11:36:31.937162,L'utilisateur a partagé des images inappropriées pour un public jeune.
+17855fd1-d471-4ca7-b81f-b44d4a32f4b1,14,2023-09-29 21:55:24.413632,L'utilisateur encourage à la violence.
+70f10a5c-0189-4b47-b165-733ac580a48f,15,2023-12-25 06:35:23.563520,L'utilisateur encourage à la violence.
+192bd3f3-dfb9-4ad1-8dea-4af00f59dd9b,16,2023-10-30 18:57:16.182049,Ce compte utilise des images de violence explicite.
+6293048f-9881-43f8-b105-5134fe6d559e,17,2023-11-27 07:24:10.998912,L'utilisateur a partagé des images inappropriées pour un public jeune.
+b1dc73dc-b3a6-4739-9029-39cc0db04b4a,18,2023-04-07 15:39:46.931979,Cette publication contient des informations trompeuses et fausses.
+caec2644-b29a-49d3-982c-039963b50c83,19,2021-12-29 02:25:58.933123,L'utilisateur encourage à la violence.
+cd1feb97-54eb-4124-a1bd-7d2b6a305356,20,2023-10-16 18:36:07.104803,Ce contenu contient des informations personnelles sans consentement.
+e45ee1a2-ab50-4e1d-aa16-1fbaf493b9bb,21,2023-11-17 16:33:22.775831,Cette publication contient des informations personnelles sans consentement.
+6446422e-6f51-4c6f-aeb9-12f47102cb82,22,2023-04-21 05:27:59.895343,Cette publication contient des informations trompeuses et fausses.
+1f7b5005-e85e-48ab-9661-33e6370238a9,23,2021-12-10 19:06:56.396297,Ce message est du spam ou des liens malveillants.
+c65aabdd-b670-4f62-95f5-02d6ed844544,24,2023-12-03 00:47:47.743646,Ce compte utilise des images de violence explicite.
+3d0ecf55-7fd5-43de-a0df-c12092c862ef,25,2023-12-27 08:38:11.033451,Ce message est du spam ou des liens malveillants.
+16e953c2-b180-47d2-84ac-6fb8d6e5481c,26,2023-08-16 19:55:56.759690,Ce message est du spam ou des fraudes.
+e9ecf173-dfaf-45b1-9d17-ef05207a0ddc,27,2019-11-06 04:47:00.534285,L'utilisateur encourage à la violence.
+5e1253fb-2446-41cd-afcc-c6ef533a4793,28,2023-12-20 14:27:37.438916,Ce message est du spam ou des liens malveillants.
+00d27a4f-7b2a-40a0-910b-88be54472168,29,2023-09-06 10:44:20.489888,L'utilisateur encourage à la violence.
+5196daf3-feb2-4881-83fa-bbb896bdd54b,30,2023-10-27 14:15:51.653550,L'utilisateur encourage à la violence.
+30816ca8-0696-4b80-9537-755044612135,31,2023-11-04 23:37:33.504367,L'utilisateur a partagé des informations trompeuses et fausses.
+9e956fd0-4e4f-4232-9490-38f629d4060e,32,2023-06-21 15:39:29.916581,L'utilisateur a partagé des informations trompeuses et fausses.
+a8317a0b-5e4c-406f-b0d3-5b2d557601c3,33,2023-12-19 01:00:53.140995,Ce compte publie du contenu à caractère pornographique.
+ff22fbd8-2612-4a16-bde8-eae39e205a39,34,2023-11-13 03:43:09.456970,Ce compte publie du contenu à caractère pornographique.
+f3a90120-2d58-4bed-96c5-ae833b58a377,35,2023-12-28 02:23:28.831747,Ce compte utilise des images de violence explicite.
+025d2e88-d56e-44ef-a157-d4c886e2ee7d,36,2022-04-01 18:39:11.829109,Ce compte publie du contenu à caractère pornographique.
+4afbfc4e-db03-44a4-b3ec-badf384c4c0c,37,2023-02-20 08:48:31.220922,Ce compte utilise des images de violence explicite.
+51f68ed0-81db-45a3-921e-92bba52b53a2,38,2023-11-22 08:02:01.483298,Ce message est du spam ou des fraudes.
+9506b204-376c-4540-b7d2-079b96ad8c99,39,2022-11-06 19:39:17.072929,Ce contenu contient des insultes racistes ou discriminatoires.
+369138c9-93bb-4c1a-9575-b609444e4b42,40,2023-12-18 00:33:08.804723,L'utilisateur encourage à la violence.
+74c4eb2e-7a1b-4e18-9b2c-d19e8af99525,41,2023-11-17 04:06:10.436851,Ce contenu contient des insultes racistes ou discriminatoires.
+4c0d994b-d7ac-4f8f-81f5-11d5301ce12d,42,2022-12-18 14:34:19.119752,Ce message est du spam ou des fraudes.
+1cfeab3c-da50-4b4b-9d22-593c874e72f2,43,2023-09-25 12:53:29.300823,Cette publication contient des informations personnelles sans consentement.
+4b9d7fba-63bb-4bb1-b52e-dc9345925721,44,2023-12-31 15:02:35.951413,Ce message est du spam ou des fraudes.
+12789a10-93e2-4584-993c-581f580e8f9c,45,2022-05-04 07:43:09.031675,L'utilisateur a partagé des images inappropriées pour un public jeune.
+d20e2b2b-b734-4c02-a186-ccdc0864c35d,46,2023-12-29 09:45:44.392697,L'utilisateur encourage à la violence.
+6d629e04-4af7-4def-b8af-020a873878dc,47,2023-08-25 23:43:22.421979,L'utilisateur encourage à la violence.
+dce0022a-5ca2-4314-b101-ac4d02645c74,48,2023-11-15 04:09:49.898827,L'utilisateur a partagé des informations trompeuses et fausses.
+3d443e3c-6270-4acd-917e-d1e902ea58ac,49,2022-06-01 04:43:43.290740,L'utilisateur a partagé des informations trompeuses et fausses.
+99ccefa1-3877-4b1f-b409-37cc49f80541,50,2023-12-21 08:33:58.925340,L'utilisateur encourage à la violence.
+8bfe5714-8488-4e68-b41c-03678e9d89e3,51,2023-11-20 11:18:26.292250,HA
+7b99cc92-0dd6-4fd4-90f1-1323ff310000,52,2023-04-24 17:25:18.531579,L'utilisateur a partagé des images inappropriées pour un public jeune.
+717ce9a2-528f-4980-9300-2d471746d03f,53,2023-12-05 05:56:05.746500,L'utilisateur encourage à la violence.
+bc475f50-00bd-4814-b705-847ba9bbd4f8,54,2023-06-27 00:26:07.642409,Ce contenu contient des informations personnelles sans consentement.
+a0237d46-40fd-464f-a227-3c2903c69a36,55,2023-09-21 14:58:35.414759,Ce compte utilise des images de violence explicite.
+4b1c75cf-3038-4a9d-9304-5ff79b96d3c4,56,2022-12-28 10:33:12.794465,Ce message est du spam ou des liens malveillants.
+a68c6968-30fd-4b8e-9938-25f40edcf578,57,2022-02-02 07:57:43.035075,L'utilisateur a partagé des informations trompeuses et fausses.
+53e250e3-f9d0-41e5-b438-04dc10b35bb5,58,2023-08-31 11:07:07.838831,L'utilisateur publie du contenu à caractère pornographique.
+2ab5316a-3f44-418b-a055-d5fdbf1d78dd,59,2022-09-18 17:40:46.018986,L'utilisateur encourage à la violence.
+e7cb752c-661d-4d9d-9fdb-9b8acdcbaa00,60,2021-07-17 02:10:36.106832,L'utilisateur encourage à la violence.
+b7b58aad-a3af-4b55-a7e4-cce36bfbac3a,61,2022-06-10 04:21:37.038156,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+24b2efad-c374-4fe6-bcaf-b39e14fce55b,62,2023-06-08 17:35:05.753465,L'utilisateur encourage à la violence.
+a01c96a9-6703-4861-8c41-6fd1e73a786d,63,2023-09-13 12:56:47.334956,L'utilisateur encourage à la violence.
+ed49c01b-4749-4352-90c2-18a31e867e34,64,2023-03-07 15:35:16.331975,L'utilisateur a partagé des informations trompeuses et fausses.
+22176ab5-f5cd-4908-b8e1-ad25dc0b8edf,65,2021-12-29 11:26:54.639417,Cette publication contient des informations personnelles sans consentement.
+69f99f82-7112-40cc-8aec-0465253e9808,66,2023-05-10 16:00:06.300285,Ce message est du spam ou des liens malveillants.
+4ab3829e-bb6f-4c56-9de8-bc8e3d64ac72,67,2022-01-24 10:48:57.358965,L'utilisateur encourage à la violence.
+91ffd2c0-3f9b-407f-b13a-9b7bbfdcff4a,68,2023-10-05 16:04:09.386698,L'utilisateur a partagé des images inappropriées pour un public jeune.
+b0dece30-2cf3-4f0a-804a-0842c64c06e9,69,2023-12-18 19:54:10.748119,Ce message est du spam ou des liens malveillants.
+c424a4da-a1ac-4fb2-b5f7-9c26842da29b,70,2023-10-03 14:44:39.090483,Ce compte publie du contenu à caractère pornographique.
+fb5a166e-c4ae-40c1-8a46-5843500555a6,71,2022-09-21 01:52:47.389801,L'utilisateur encourage à la violence.
+e7d4f4c4-08d0-4bcf-8d93-493eb8482542,72,2023-08-13 17:43:53.965976,Cette publication contient des informations trompeuses et fausses.
+0875e0b1-cbd5-45f5-af7a-dd94d80462ec,73,2023-05-16 20:25:39.370493,Ce contenu contient des insultes racistes ou discriminatoires.
+b7011596-ac87-4eee-a3a1-420867464863,74,2022-08-10 14:37:17.293537,L'utilisateur encourage à la violence.
+b8ee3190-abf5-4efc-903a-e4dcb531ea3c,75,2023-12-02 13:46:41.860945,Ce message est du spam ou des fraudes.
+47009aa4-59f7-401b-802c-0f5ff4156588,76,2023-05-31 01:42:22.491227,Ce contenu contient des insultes racistes ou discriminatoires.
+a14ee3b5-83bc-43eb-83b3-2d5bf32296c7,77,2023-11-01 03:10:07.826565,Ce contenu contient des informations personnelles sans consentement.
+fc5852eb-2e77-456c-ba2a-54df74a9b698,78,2023-06-03 23:18:50.588270,Ce contenu contient des insultes racistes ou discriminatoires.
+a51084f0-0bcc-4480-85e6-e8a74f35f06e,79,2023-10-16 13:26:12.555523,Ce compte publie du contenu à caractère pornographique.
+591217f8-ceb0-431f-995a-6432369221c4,80,2023-12-28 15:45:52.766516,L'utilisateur encourage à la violence.
+bcf5913d-47b6-455f-8c2e-80305627dbc2,81,2023-11-21 19:34:28.483220,Ce contenu contient des insultes racistes ou discriminatoires.
+7674da27-c041-4a79-874c-83a8ddf2862f,82,2023-06-22 23:47:18.620318,Ce compte utilise des images de violence explicite.
+dc42c0f6-4ac6-47b3-9f4c-71c613fd60fb,83,2023-12-18 23:00:53.273317,Ce compte publie du contenu à caractère pornographique.
+901b0405-6ab9-4fcd-b751-7badfcb85373,84,2023-12-22 08:27:30.386531,L'utilisateur encourage à la violence.
+d0b2596c-9669-416b-bac2-ecbb59cbb1c6,85,2023-11-30 16:43:00.083251,L'utilisateur a partagé des informations trompeuses et fausses.
+f5d988c9-de70-4a57-b08b-90eb0d9dc4c7,86,2023-12-31 07:02:55.015233,Ce contenu contient des insultes racistes ou discriminatoires.
+c3c6706d-a388-4fbf-a38b-ca3bbfbc10c0,87,2021-01-08 10:17:48.788541,Ce contenu contient des informations personnelles sans consentement.
+5cc37ea2-34f8-4469-a2ee-5f9e30bc69a4,88,2023-08-15 01:26:23.240583,Ce contenu contient des informations personnelles sans consentement.
+3bb7aa74-dd2e-478a-bfb7-b4f4964fcfd5,89,2023-02-06 17:05:16.621683,Ce message est du spam ou des liens malveillants.
+c1caca47-f9ae-4006-a39c-ef2325e757bb,90,2022-03-25 09:57:46.022002,Ce compte utilise des images de violence explicite.
+e89aa201-0fce-42ab-8140-709d7d098e37,91,2023-09-05 19:25:51.490291,L'utilisateur a partagé des informations trompeuses et fausses.
+35a9942b-7a76-4765-83ec-7ec0d303263c,92,2023-03-01 22:38:09.038710,Ce message est du spam ou des liens malveillants.
+e2240f92-5f3f-40b0-a676-deace8719c86,93,2023-02-12 05:57:05.178358,L'utilisateur a partagé des informations trompeuses et fausses.
+f0f595ac-541a-40c1-ac5b-22ecbf54e976,94,2023-12-31 15:34:27.170188,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+c577f2cc-b170-47f2-8248-ac3944f30c89,95,2023-08-27 09:53:46.616330,Ce message est du spam ou des fraudes.
+9396ef38-c106-4e12-83d6-197df59196fc,96,2023-10-21 01:54:58.618201,Ce contenu contient des informations personnelles sans consentement.
+a718b7ff-36a9-4316-8af2-d5d88f0e9ae7,97,2023-05-17 08:35:10.272122,L'utilisateur encourage à la violence.
+e065ab3d-f8a1-4909-b702-c5a3b4c47b78,98,2023-09-25 17:12:33.905624,Ce message est du spam ou des liens malveillants.
+801db225-93b8-4c03-a2e6-68cbbccf5c2e,99,2022-12-18 23:01:09.330941,Ce compte utilise des images de violence explicite.
+e1e1d52a-c40c-433e-a8a6-d2a574be212f,0,2023-11-19 16:48:44.566125,Ce contenu contient des informations personnelles sans consentement.
+99a93b27-38d9-45ce-bb29-c95769a14236,1,2023-11-14 06:14:58.370756,Ce contenu contient des informations personnelles sans consentement.
+88a46076-091d-4e4b-aa1b-d1a0c848fe96,2,2023-09-13 15:25:40.193131,Ce message est du spam ou des liens malveillants.
+917005e0-cd50-42a1-b8da-1bae5af68b1d,3,2023-08-18 18:48:32.702205,Ce message est du spam ou des fraudes.
+0537949b-5fdd-440d-8f1f-a1b5c0196409,4,2022-03-04 02:07:27.315947,L'utilisateur a partagé des images inappropriées pour un public jeune.
+9a3cf06b-9bb9-43e8-a8d3-b8657f870e1f,5,2023-08-22 15:17:06.667927,Ce contenu contient des insultes racistes ou discriminatoires.
+917e6d28-65cb-4399-a966-76f8e6f9d040,6,2022-10-19 19:07:54.033207,Ce message est du spam ou des liens malveillants.
+e5f978ab-e448-41ed-9e99-16ad6b1de78a,7,2023-07-08 19:20:02.235938,L'utilisateur a partagé des images inappropriées pour un public jeune.
+1e34a401-5cc3-48fd-a969-43cab11e2fc9,8,2023-07-15 03:40:30.718637,Ce compte utilise des images de violence explicite.
+456c5d2a-c481-4b27-b1ee-606fb2e3875d,9,2023-10-04 19:48:25.962885,HA
+896f148b-cbbb-4d6e-a785-e9936fcd3e97,10,2023-12-15 18:26:41.080304,Ce compte utilise des images de violence explicite.
+82b6786d-830a-46f7-bda9-4793720729e0,11,2023-12-10 21:38:58.823466,Ce contenu contient des insultes racistes ou discriminatoires.
+480d127b-d170-4df2-bee2-dee99bbc55c9,12,2022-07-09 14:08:10.401023,Ce message est du spam ou des liens malveillants.
+3f474bb1-5a73-4f08-a636-87c3df4b5d99,13,2023-12-30 08:18:28.774871,L'utilisateur a partagé des images inappropriées pour un public jeune.
+213e235d-e877-496e-9991-00024d68d7cc,14,2023-07-30 00:14:39.996890,L'utilisateur a partagé des informations trompeuses et fausses.
+3cb712a5-71eb-41d0-aa01-9a08f803fabb,15,2023-12-04 06:01:01.516462,Ce contenu contient des insultes racistes ou discriminatoires.
+b68e9653-b86e-4618-93b4-e703481b180d,16,2023-09-08 06:11:49.068023,Ce compte publie du contenu à caractère pornographique.
+61f3b694-a04a-4950-aa3c-6a818382cc56,17,2023-11-17 14:01:52.456752,Cette publication contient des informations personnelles sans consentement.
+8fc2493c-3493-4df9-8bbb-54c318505d2b,18,2023-12-10 16:12:02.482137,Ce compte publie du contenu à caractère pornographique.
+0c189a0d-3497-4c7e-a4f4-e5d97c202e6d,19,2023-12-15 05:22:55.556368,Cette publication contient des informations trompeuses et fausses.
+aa2a2c09-863a-41f0-9d35-1727e52c25f7,20,2023-01-07 13:29:32.367453,Ce message est du spam ou des liens malveillants.
+bea569b9-ce00-4e09-b1a8-76d634305f1c,21,2023-12-31 06:58:19.696087,L'utilisateur a partagé des images inappropriées pour un public jeune.
+5014b49f-e69e-4190-871f-5e0979422fdc,22,2023-10-28 23:45:00.751494,Cette publication contient des informations personnelles sans consentement.
+aa77a899-f023-4aae-959b-163e09997242,23,2023-07-18 14:12:06.537459,Ce compte publie du contenu à caractère pornographique.
+ad035f0c-6e84-4878-bc0d-9e0b2a3cc432,24,2021-02-23 19:49:52.712818,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+ad3b5bf9-873d-4ccd-a87b-6b1962410943,25,2023-09-13 07:33:53.728994,Ce message est du spam ou des liens malveillants.
+fe110bce-d3e9-4ee2-84cf-add7f32c9c46,26,2023-11-01 04:59:23.621283,Ce compte publie du contenu à caractère pornographique.
+bbbdd39b-9161-4c14-bae7-4c2325952da8,27,2023-12-30 06:53:04.833329,Ce message est du spam ou des fraudes.
+0d9aca3e-3de0-48a5-9ffa-13e578172cff,28,2023-08-21 11:07:19.370017,Ce compte utilise des images de violence explicite.
+4523db3b-02c5-414d-b157-89ca689f0eb5,29,2023-12-11 05:31:08.216386,Ce contenu contient des insultes racistes ou discriminatoires.
+e9a0a4a5-3ac2-4323-91d2-c4b3b897a8c0,30,2023-12-21 10:29:31.023095,L'utilisateur a partagé des images inappropriées pour un public jeune.
+c020a5a1-12b9-4887-b930-df9e0ac935bb,31,2023-01-25 01:23:43.895158,L'utilisateur a partagé des informations trompeuses et fausses.
+d4914d7a-b3f7-4c69-91a0-623d0253deff,32,2023-12-31 05:11:48.290554,L'utilisateur a partagé des images inappropriées pour un public jeune.
+a03846d8-d17f-452c-859a-b7a68b604a13,33,2023-10-26 05:45:28.429093,Ce message est du spam ou des liens malveillants.
+d3182322-68dc-49f4-b904-69e42bbb3119,34,2023-09-04 07:48:33.591688,Cette publication contient des informations personnelles sans consentement.
+4a1ab017-3164-4606-9123-c61c542561f3,35,2022-05-18 21:32:53.436546,L'utilisateur publie du contenu à caractère pornographique.
+99c6ae56-7af2-4ef8-8fb3-01f0750275ae,36,2023-04-02 00:21:30.711128,L'utilisateur encourage à la violence.
+d1244906-056f-4264-89b8-6906aa261a12,37,2023-09-16 15:40:09.450929,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+a0798d8f-25c2-4e4b-bda4-617981f7043e,38,2023-04-10 15:44:23.200455,L'utilisateur a partagé des images inappropriées pour un public jeune.
+694e30af-6904-4c08-a6ed-01c176fbc61e,39,2023-04-28 06:45:38.176515,L'utilisateur publie du contenu à caractère pornographique.
+da7167f5-ebc8-4a3c-8bc6-a99504bf4067,40,2023-12-26 07:50:54.235696,Ce compte publie du contenu à caractère pornographique.
+308a4657-efd1-46e4-be36-b89c2d3ca738,41,2023-12-03 05:23:03.517564,L'utilisateur a partagé des images inappropriées pour un public jeune.
+7d45c5d0-9de7-4db8-8217-2cbfc0f980b8,42,2023-09-15 09:04:14.064556,Ce compte publie du contenu à caractère pornographique.
+40a1863f-a4cc-40e7-83e9-cd5d49252f55,43,2023-10-19 00:14:35.839308,L'utilisateur encourage à la violence.
+7ea33ff4-f94e-4bcb-aed0-f1729c0a8171,44,2023-11-08 13:26:17.950644,Ce compte utilise des images de violence explicite.
+912bbfac-b6bb-414b-b8be-a67766c28eb3,45,2023-06-11 13:42:30.084596,Ce compte publie du contenu à caractère pornographique.
+56459197-8249-4224-9723-ba09dd3df74f,46,2023-11-18 21:06:13.513939,Ce message est du spam ou des liens malveillants.
+c89b82a3-6aaf-48ee-90d3-8f9595657eea,47,2023-12-19 00:10:58.593811,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+4cdb922b-1b6f-4cf1-8fdb-8548f104978c,48,2023-10-12 01:41:38.842629,Ce compte utilise des images de violence explicite.
+4d97553e-fda2-420d-a4e4-0929b559f0e4,49,2023-11-18 00:16:59.618519,Ce message est du spam ou des liens malveillants.
+3e02e8f6-a801-462b-a262-13d4593a41fb,50,2023-12-13 05:21:07.531156,Ce compte publie du contenu à caractère pornographique.
+ad3d47ca-11ca-4e07-9507-f5fbb8a8f3ec,51,2022-08-09 22:14:58.097894,L'utilisateur a partagé des informations trompeuses et fausses.
+4a455560-7351-4f4d-8f54-67443ce62f5c,52,2023-07-21 20:36:16.939268,Ce compte publie du contenu à caractère pornographique.
+5312e620-674f-4b43-9fcf-9822cd595942,53,2023-08-29 21:58:02.239341,Ce contenu contient des insultes racistes ou discriminatoires.
+c0911cb8-bb27-4bcf-a371-9ddf935e4f51,54,2023-12-24 13:03:24.137985,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+55783c7e-ddc7-4e07-9276-53affd05eef0,55,2023-02-17 10:15:34.814903,L'utilisateur a partagé des informations trompeuses et fausses.
+c125614b-97a5-4338-86a5-8222a27e1238,56,2023-11-07 14:06:39.443688,Ce compte utilise des images de violence explicite.
+c313ae7c-d1e4-4be5-8a85-87e026bae3d2,57,2023-09-02 05:55:03.362956,Ce compte utilise des images de violence explicite.
+acc51602-c6e8-4813-8e96-a0c47c21d317,58,2023-06-04 17:35:12.287637,Ce message est du spam ou des fraudes.
+4f175448-cb80-4434-9a7e-74e9fad26e4f,59,2023-12-31 07:35:47.789633,Ce message est du spam ou des liens malveillants.
+7a6f1775-aa2d-4cfa-81cd-6ccf4c9c06e7,60,2023-08-24 06:27:14.551213,L'utilisateur publie du contenu à caractère pornographique.
+e1c4d30e-18b3-4d78-b3d9-9cf07b43f4fc,61,2022-09-04 17:11:10.962994,Ce message est du spam ou des liens malveillants.
+2232419a-9b61-46c3-b3ec-f7bddfeb5af7,62,2023-11-08 08:24:49.103023,Ce compte publie du contenu à caractère pornographique.
+8c29131f-2244-4f1a-a9f5-8fec3c04d7f0,63,2023-01-18 20:29:23.942678,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+d58a2147-ed5b-4cb3-893d-84d2522ef2f9,64,2023-01-30 09:27:26.836018,Ce compte utilise des images de violence explicite.
+7c13b70e-4926-4094-b529-28732b3fd08b,65,2023-12-27 09:33:48.524304,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+864aa1aa-60a4-48a9-9202-8182ab3de248,66,2023-06-10 14:38:22.887009,L'utilisateur encourage à la violence.
+80898eeb-2368-444b-9647-10fc40e5a867,67,2023-12-06 14:17:21.044526,Ce contenu contient des informations personnelles sans consentement.
+58a04630-3ea1-4d5f-bb57-e0602abbc43f,68,2023-08-17 20:05:36.261287,L'utilisateur encourage à la violence.
+c84d5f39-4031-496f-a165-8a89e491aa7e,69,2023-12-06 18:50:24.125754,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+fff38147-c5d0-4b32-821e-1058d7bff992,70,2023-12-31 17:00:41.720393,L'utilisateur a partagé des images inappropriées pour un public jeune.
+43ec400a-4fb9-4c40-b051-5dd4c467c7d8,71,2023-07-26 08:40:20.248494,L'utilisateur publie du contenu à caractère pornographique.
+94b7812b-cd8b-46f2-bc57-2db095f1ca6c,72,2023-02-22 23:16:11.459932,L'utilisateur publie du contenu à caractère pornographique.
+e5aed6a7-5465-441f-8680-335289bf6633,73,2023-12-25 15:44:50.759826,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+91ae15a8-d587-4677-b97b-213712d0dadb,74,2023-08-31 05:44:28.831880,Ce contenu contient des informations personnelles sans consentement.
+3794334e-cb20-440a-a478-4b55b1350278,75,2023-11-23 10:19:52.111564,L'utilisateur encourage à la violence.
+9b0d0ad7-9f38-4e1f-9c14-f83e34f2cdf2,76,2023-12-23 22:18:32.591224,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+685bdab3-a468-42fa-9c90-d60c68985268,77,2023-04-01 13:23:44.581865,Ce message est du spam ou des fraudes.
+c1cdd1fa-6ce2-4cbe-acc4-faa6a23b21bf,78,2023-12-08 02:43:03.041034,Ce message est du spam ou des fraudes.
+d59c1eb3-84b4-41ff-afc8-75671631fe34,79,2023-01-12 12:34:54.252315,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+32aa03c9-faff-43fd-b8e8-6c621455b0cd,80,2023-12-31 03:25:02.115493,Ce message est du spam ou des liens malveillants.
+282ee91a-dc7f-4eb1-8779-ea5613664140,81,2023-11-26 04:17:12.309869,Cette publication contient des informations trompeuses et fausses.
+633645ee-ada7-4889-9d75-19a1645a0f1f,82,2023-12-27 02:45:23.950867,Ce message est du spam ou des fraudes.
+cecad424-ad43-4f0c-aca1-f4ce7b6f163a,83,2023-10-13 13:25:01.836210,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+0b53c8d3-e3e6-4ced-bedd-fe30d3dc90bb,84,2023-08-20 17:48:05.457096,Ce compte utilise des images de violence explicite.
+99f46eb0-606c-4f82-9aa1-3cf8e57caa90,85,2022-08-21 20:37:57.495871,L'utilisateur encourage à la violence.
+e03e0a3c-9dd9-4bf1-bf82-0226b04d9833,86,2021-08-25 20:09:59.693433,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+c7c010c1-6a56-4c48-9aeb-f7fa8ff44c80,87,2023-12-20 16:47:16.580183,Ce message est du spam ou des fraudes.
+19a58edb-8024-484c-8054-b44188c93be7,88,2023-10-27 00:58:05.643709,L'utilisateur encourage à la violence.
+1e6a24ec-0331-4108-8412-e25027abda7b,89,2023-11-23 17:43:46.420677,L'utilisateur a partagé des images inappropriées pour un public jeune.
+1c011b69-324e-4a5c-abe8-9549741cd2c2,90,2023-11-05 10:35:40.493829,L'utilisateur a partagé des informations trompeuses et fausses.
+1d928d40-8dc1-4c7a-8ebb-866d1b73754a,91,2023-10-01 05:04:00.508182,HA
+5f74782b-4ec1-4750-8119-784273e3c8be,92,2023-08-15 22:11:34.668149,L'utilisateur publie du contenu à caractère pornographique.
+a67b40ff-71cc-4daa-875e-e0042215e05c,93,2023-12-14 14:38:35.974822,L'utilisateur encourage à la violence.
+de416082-f1aa-4b0d-82ce-12bcc14e3924,94,2022-09-19 16:39:23.059801,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+c11600aa-14d2-44ee-b098-c10d70ddd71f,95,2023-12-29 11:36:26.743820,L'utilisateur publie du contenu à caractère pornographique.
+b5a45999-0a52-4b7b-8e1a-87c4b5132e5d,96,2023-06-23 22:12:18.605501,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+43d5d96a-dac9-44c6-a95e-40fc05edbfee,97,2023-03-18 05:30:02.885712,L'utilisateur publie du contenu à caractère pornographique.
+ee089e66-88f0-4169-bdf9-b92f3a1437f2,98,2023-09-02 23:28:21.298312,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+e31449a1-1acd-45d2-aced-fb244a1d8652,99,2021-12-31 16:31:21.715077,L'utilisateur encourage à la violence.
+f64d7a49-7759-4efe-9074-f4218ad9343c,0,2023-02-20 09:47:04.197440,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+7a5eb369-29bc-4a40-b771-9fea57582210,1,2023-12-19 00:48:33.816422,Ce message est du spam ou des liens malveillants.
+97f7bfda-61da-4e3b-aebb-575c99b7d5fb,2,2023-09-23 17:55:14.214634,L'utilisateur publie du contenu à caractère pornographique.
+200d0107-337f-417a-88a1-f090716179e8,3,2023-11-07 05:02:28.073609,L'utilisateur a partagé des images inappropriées pour un public jeune.
+a3b42070-23a5-48ea-badd-e4061310838e,4,2023-12-31 01:52:16.623926,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+c5f75a95-3c0c-4463-9287-c0075c601852,5,2022-02-07 01:36:22.567563,Ce compte utilise des images de violence explicite.
+58d9c350-3c56-46d5-a1ab-0a17fd92b78c,6,2023-08-05 05:30:23.252922,Ce message est du spam ou des liens malveillants.
+57912195-0303-481c-84b1-8ad1c5075197,7,2021-06-30 07:54:24.931613,Ce compte utilise des images de violence explicite.
+a52f3889-412d-4151-9a3d-3a77d9e6b0b5,8,2023-12-17 04:31:21.054231,Ce compte utilise des images de violence explicite.
+0ff79541-2b31-4fb1-b79d-41a65e8bab81,9,2023-12-01 18:00:23.856482,Ce message est du spam ou des fraudes.
+e26326b8-b3b9-4ed3-8381-98623d4bd05a,10,2021-05-29 20:02:17.519748,Ce message est du spam ou des fraudes.
+3b4eb3bf-2135-40b1-9056-bec419a3e59d,11,2021-08-04 16:32:42.105650,L'utilisateur a partagé des informations trompeuses et fausses.
+152d6706-3fc5-40f9-a0d5-95be3aed7980,12,2023-11-01 11:07:57.548009,L'utilisateur encourage à la violence.
+bbe6b552-561c-474f-9dac-e6833846276e,13,2023-12-27 15:25:18.864514,Ce message est du spam ou des fraudes.
+0676161e-1412-421f-a8db-66baec5e64b6,14,2023-12-23 14:15:33.521824,Ce message est du spam ou des liens malveillants.
+51d29c01-7bcd-4484-b661-1c8b324dc44f,15,2023-12-28 01:18:23.717456,Ce message est du spam ou des fraudes.
+dc1f10dc-3b6a-42e1-95c3-885f0964e681,16,2023-10-27 21:34:17.867635,Ce compte utilise des images de violence explicite.
+a3dea74d-4307-4065-96e9-370c5fdb55d1,17,2023-06-25 00:41:11.995664,Ce contenu contient des insultes racistes ou discriminatoires.
+0fb0dba0-3ca3-40ec-8432-e550d321cdf1,18,2023-06-08 02:43:26.535584,HA
+9f251910-53dd-4f75-aac7-9ec47366518d,19,2023-10-03 11:25:17.008160,Ce message est du spam ou des fraudes.
+2e312f41-816b-4794-abba-bee5b2751ae3,20,2023-01-18 15:20:37.272024,Ce compte publie du contenu à caractère pornographique.
+8e947678-4c3e-4fcb-b3f1-28bb51e07b3b,21,2022-01-26 00:04:49.834607,Ce compte utilise des images de violence explicite.
+31a2c392-1398-4076-96ac-6db28e4fe013,22,2023-04-02 00:09:26.476799,Ce contenu contient des insultes racistes ou discriminatoires.
+1d012a7a-d171-47cc-a684-699134cc0ca1,23,2023-01-15 20:43:23.339468,Ce message est du spam ou des fraudes.
+f2912190-fe54-4239-83f3-0645eaa4fb2a,24,2023-10-13 02:44:34.582652,L'utilisateur publie du contenu à caractère pornographique.
+42d4b7f9-f3d7-4a3a-ba5c-135b23df93f3,25,2022-11-21 02:33:47.561834,L'utilisateur a partagé des images inappropriées pour un public jeune.
+6eee27f6-928c-459d-826d-5cbd4d4e926f,26,2023-08-31 18:15:35.621523,Cette publication contient des informations personnelles sans consentement.
+c447304f-4f92-4daf-9a54-97d57449d520,27,2023-12-30 17:32:16.876597,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+d8444e4e-2a59-41ea-b1ba-b4ae568d44cd,28,2022-05-16 08:31:24.115690,Ce message est du spam ou des liens malveillants.
+6e092fee-6dc0-4063-8d6b-5e54ad735a50,29,2023-12-13 21:27:04.295542,L'utilisateur encourage à la violence.
+d7fa403c-ff10-48f9-8212-b18bb35cfad4,30,2023-12-19 23:11:18.285032,Ce message est du spam ou des fraudes.
+e0c0bde7-2b36-4194-b40a-9ff711271c64,31,2023-11-24 14:28:56.621394,L'utilisateur publie du contenu à caractère pornographique.
+38466f11-230b-4159-b2bf-c2fc18366ed7,32,2023-09-30 12:20:38.182596,L'utilisateur encourage à la violence.
+657ae568-b041-467e-a014-4ba6d4d2e0da,33,2023-12-30 09:40:58.805942,Ce compte publie du contenu à caractère pornographique.
+0da39249-3d68-4b60-becc-55575ff902e8,34,2023-08-15 15:08:52.274868,Ce compte publie du contenu à caractère pornographique.
+bf962ed1-210c-462f-8e15-d211df1aadff,35,2023-05-15 00:14:08.694501,L'utilisateur a partagé des informations trompeuses et fausses.
+bdf79f4e-56f2-4a8d-bf2d-1f44061bba69,36,2023-08-04 02:27:18.108916,L'utilisateur a partagé des informations trompeuses et fausses.
+4c61c585-1902-4404-95ba-e2055e7118f0,37,2022-01-07 09:52:18.753112,L'utilisateur encourage à la violence.
+f571f45e-479c-4d38-8020-0a128dad84c8,38,2023-11-29 19:42:26.248612,L'utilisateur encourage à la violence.
+8208a0c6-7b38-4013-8d63-1cb0db8c3334,39,2023-09-16 19:13:24.324113,Ce compte publie du contenu à caractère pornographique.
+f744085c-b6ce-4397-830e-a33b77007dd3,40,2023-01-31 02:56:47.005947,Ce compte publie du contenu à caractère pornographique.
+a0d55943-aed3-4ea5-9fe3-bb37cc05196e,41,2023-05-26 09:23:23.610434,Ce message est du spam ou des liens malveillants.
+49c8be7c-350a-4876-928f-0757ea5214a3,42,2023-11-18 20:08:26.565728,Ce compte publie du contenu à caractère pornographique.
+4ca3bcb8-e907-46d8-9e42-c43b581d9fde,43,2023-12-17 22:27:21.142312,Ce contenu contient des insultes racistes ou discriminatoires.
+56e6572d-3839-4505-82dd-5ec13403591e,44,2023-10-08 10:33:01.669281,L'utilisateur publie du contenu à caractère pornographique.
+8049e879-2956-4735-826f-fa2bab34f4ea,45,2023-07-17 14:30:21.921530,Ce message est du spam ou des fraudes.
+46930a50-f643-4cb6-82e1-e624b3548f92,46,2023-03-29 04:30:00.010901,Ce compte utilise des images de violence explicite.
+911fca09-0fab-4afd-86b0-ae46ea0a299b,47,2023-12-08 13:02:28.383253,Ce message est du spam ou des fraudes.
+d8cdb357-2b21-4774-9146-4dc209a57be4,48,2022-11-19 22:07:37.435104,Ce message est du spam ou des liens malveillants.
+2736f479-1c88-4978-9723-e4be8a8bf0e8,49,2023-11-23 02:09:25.744379,Ce contenu contient des insultes racistes ou discriminatoires.
+1500b80e-2202-42cf-91d9-47501cc17392,50,2023-12-31 15:08:57.439173,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+0d378e09-d77c-49b1-a70f-d49ea7f414ef,51,2023-11-20 13:17:30.720806,Ce compte publie du contenu à caractère pornographique.
+de5a2600-1546-4c31-a636-f2b7df30cdeb,52,2022-09-27 05:31:02.237452,Ce compte utilise des images de violence explicite.
+b1672f0e-4810-4e0e-b3bb-1806b5ebfb8a,53,2023-07-07 04:02:43.534875,L'utilisateur a partagé des informations trompeuses et fausses.
+1eb38d92-e281-4bf0-b476-629dab69fb6b,54,2023-11-25 01:50:43.276715,Ce compte utilise des images de violence explicite.
+fb5031ca-2011-4ae3-8e3b-8c78e2bf7e4f,55,2023-08-20 20:58:51.729670,L'utilisateur encourage à la violence.
+0ed71984-8b41-4c4d-9d4d-c2f63be6da79,56,2023-12-24 13:46:01.069161,L'utilisateur encourage à la violence.
+1abbc5d7-ad77-463f-b800-7592fb874e9b,57,2023-10-15 16:48:59.757901,Ce compte publie du contenu à caractère pornographique.
+f6d036ae-4c9a-4e21-b855-892f76401902,58,2022-10-27 08:39:08.849744,Ce message est du spam ou des liens malveillants.
+cce6729c-6758-4c3d-aa97-2d7a80bcbe09,59,2022-10-24 03:11:04.838954,Ce contenu contient des insultes racistes ou discriminatoires.
+9a00ffde-3211-4aa9-aa89-64a6fa21e061,60,2023-07-20 13:58:22.734131,L'utilisateur a partagé des informations trompeuses et fausses.
+7028d2b5-3bca-4da0-b0d7-688127a248ea,61,2023-10-03 20:23:25.602238,L'utilisateur a partagé des informations trompeuses et fausses.
+dc0af7a9-8b5a-4dcb-a9e9-7f82d89c0657,62,2023-08-13 22:29:32.944458,Ce message est du spam ou des liens malveillants.
+5b5b89ee-5f70-433a-b0ac-b3d2d7043bdd,63,2021-08-06 07:44:08.645929,L'utilisateur encourage à la violence.
+19cea448-8803-4be0-aa01-e20a33dd2497,64,2023-10-03 17:44:18.980822,Ce message est du spam ou des fraudes.
+8f740851-3bc7-4f59-bcbc-087c0e86a31f,65,2023-12-01 11:22:53.829243,Ce compte publie du contenu à caractère pornographique.
+853faa37-1fd1-415f-bcbc-03badcda81c0,66,2021-09-29 20:31:00.946845,Ce contenu contient des insultes racistes ou discriminatoires.
+84d17bcf-914d-40ab-97ab-792503beae44,67,2023-08-31 06:09:49.403596,L'utilisateur publie du contenu à caractère pornographique.
+4c690711-1eab-4419-a404-db8339d34b2d,68,2021-02-20 02:48:28.129997,Ce message est du spam ou des fraudes.
+a3830d48-edc9-49cf-8658-08abf37687dc,69,2022-01-15 04:10:23.561980,Ce message est du spam ou des liens malveillants.
+4afad5e7-07fc-4d5c-b494-5ff33959ed6a,70,2023-12-17 08:56:10.776096,Ce compte utilise des images de violence explicite.
+099488b6-978a-49aa-8089-0e4805cbe2ec,71,2023-11-09 23:52:59.991913,L'utilisateur a partagé des informations trompeuses et fausses.
+8c796bc0-0ca9-4113-b313-73f1c539870b,72,2022-11-11 22:54:54.001855,Ce message est du spam ou des liens malveillants.
+f93313c4-460a-4a30-8609-bec3f7c4e29b,73,2022-12-22 10:10:08.529483,L'utilisateur encourage à la violence.
+6e3da6ad-0880-429b-af20-9a1aa2462203,74,2022-06-29 16:34:56.791653,HA
+5eb6ada0-40e8-4109-a5fc-2aa6d1539531,75,2023-12-22 21:01:25.035209,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+3772ad1e-d2f1-439d-8fc8-63d3cdb80658,76,2022-10-10 06:28:11.100239,Ce compte publie du contenu à caractère pornographique.
+15eb42b3-571c-4e72-b641-b3b3d9a67b9d,77,2023-12-25 21:14:48.372568,Ce contenu contient des insultes racistes ou discriminatoires.
+4e2fe535-231e-4ecf-a72a-33c2a68fd589,78,2023-12-29 21:48:13.631154,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+d88d16ed-5346-4629-8021-2f70c0d40e72,79,2023-07-14 19:54:29.921974,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+1fc6f2b8-38be-4da9-a5e5-bb0e1575734a,80,2023-12-29 23:51:18.209485,L'utilisateur encourage à la violence.
+b6f916d3-d577-4f93-9607-8e5347ce4719,81,2023-01-15 04:45:56.824146,Ce compte publie du contenu à caractère pornographique.
+4f2fc269-1bc1-4e09-ac3c-139bfa1d7947,82,2023-10-07 22:35:24.470830,L'utilisateur encourage à la violence.
+c9a74c4e-9a9a-4cb8-9299-f54a2d6d2d7a,83,2023-12-31 12:04:44.884336,Ce compte utilise des images de violence explicite.
+429a9ec3-fe9d-46fc-a36a-29a770fc55ea,84,2023-07-24 07:01:00.744641,L'utilisateur a partagé des informations trompeuses et fausses.
+74d5e0fe-f08a-42a1-a193-cd5226b188ad,85,2023-10-02 20:55:05.195079,L'utilisateur encourage à la violence.
+47acbb42-100b-463c-8b18-6b871f4d2388,86,2023-10-23 00:46:53.369260,L'utilisateur encourage à la violence.
+97a2e96e-904e-4a06-a1cd-6f4effc0dbd4,87,2023-03-19 16:08:31.801756,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+3e77dd4b-b60c-4ffb-901a-015a6debf277,88,2023-09-05 17:37:45.901940,Ce contenu contient des informations personnelles sans consentement.
+2eb43603-fba4-4193-942b-c101dba8bf0c,89,2023-12-14 23:50:05.529322,L'utilisateur encourage à la violence.
+fe95642c-9d31-4365-a2a0-fa118c60e69d,90,2023-12-27 02:57:52.008794,Ce contenu contient des informations personnelles sans consentement.
+5b38b9fa-2f55-4424-93e4-46b93f2c5ea8,91,2023-12-23 10:04:49.137407,Ce message est du spam ou des liens malveillants.
+43053b7c-224a-4211-b604-14c5c075957a,92,2023-12-26 19:52:11.228988,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+e0da4461-b7a1-4942-9fe7-2687b9ec7ad9,93,2023-04-20 17:53:25.404511,Ce compte publie du contenu à caractère pornographique.
+eb4fb267-0a38-4f1f-beb7-18b1f49e7f9d,94,2023-12-26 19:50:48.696602,L'utilisateur publie du contenu à caractère pornographique.
+c19fbc78-0aa6-467f-9103-a1c6da77715a,95,2023-04-23 01:41:25.071449,Ce message est du spam ou des fraudes.
+927d2dd6-8408-46a0-93dc-d80a095162e7,96,2022-09-07 06:58:59.086457,Ce compte publie du contenu à caractère pornographique.
+7870daca-9c65-4bc3-b743-817dbbd0aac8,97,2023-10-08 21:38:39.470972,Ce compte utilise des images de violence explicite.
+e5b699d6-a18d-4457-8172-6377519a4dab,98,2023-05-28 09:49:28.046998,Ce compte utilise des images de violence explicite.
+613fd285-7f45-482c-8234-837ef518c7eb,99,2023-05-24 07:33:19.913238,L'utilisateur encourage à la violence.
+01d20c74-0bb7-49a9-a3c6-5887b879be7c,0,2023-12-30 01:48:46.577267,L'utilisateur encourage à la violence.
+468d38e1-6124-4470-95a5-fbe3a896839d,1,2023-08-06 19:30:57.679046,L'utilisateur a partagé des informations trompeuses et fausses.
+01010493-5a74-426b-bf68-87ddba6c212d,2,2023-12-18 10:02:10.321385,L'utilisateur a partagé des images inappropriées pour un public jeune.
+1395ac70-31b8-4fb5-96ab-9603f034d87c,3,2023-09-25 15:54:11.682155,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+31c7985b-5f00-44ec-85ea-95934b2b5b08,4,2021-12-23 02:37:56.547067,L'utilisateur encourage à la violence.
+d25801a5-beeb-4053-adbe-32c34973279e,5,2023-12-20 13:38:52.003860,Ce message est du spam ou des fraudes.
+3ce917ef-99b6-4e3d-9d8c-b2ff7e8a360a,6,2023-11-17 06:48:34.483752,L'utilisateur encourage à la violence.
+81680fbf-54fe-4b90-98db-1790f7a981f3,7,2023-11-19 18:06:48.218598,L'utilisateur encourage à la violence.
+fa64c19c-ff95-4477-995c-0954c22db280,8,2023-12-24 16:03:38.061640,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+2a6b03c4-504e-41b5-8c40-14a775627a43,9,2023-07-29 10:49:35.207338,L'utilisateur encourage à la violence.
+fa408126-82ac-46f2-87ad-a4b55e5adfd3,10,2023-04-28 08:12:44.320016,Ce contenu contient des insultes racistes ou discriminatoires.
+b249eb96-0d76-49dd-a845-d99463d8e443,11,2023-10-13 23:19:57.131112,L'utilisateur encourage à la violence.
+b2141a50-87e8-4b48-99f1-78d8de29af26,12,2023-08-31 17:06:32.968583,Ce compte utilise des images de violence explicite.
+5ba48614-6018-40a7-96ab-f83da8a775cd,13,2023-12-28 11:08:36.025698,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+b3bd353f-ad84-4a3c-8462-ece9c510f4d4,14,2023-09-17 07:35:05.453111,L'utilisateur encourage à la violence.
+03888132-30c6-41b0-8586-691572a94950,15,2023-10-05 01:58:09.474628,Ce contenu contient des insultes racistes ou discriminatoires.
+ed6aded5-0d04-43a0-b7a0-72c96b006b25,16,2023-07-24 02:01:02.375044,Ce contenu contient des insultes racistes ou discriminatoires.
+c40cd5a7-8a19-4b38-bd3a-be30c65afe83,17,2023-05-21 09:18:59.697277,Ce contenu contient des informations personnelles sans consentement.
+fbae008c-740e-4a66-b587-42050b74d13d,18,2023-11-12 03:49:15.771344,Ce message est du spam ou des liens malveillants.
+225618ab-cafe-4b3b-bd09-9aff22a1ff61,19,2023-12-26 23:26:58.099417,L'utilisateur a partagé des images inappropriées pour un public jeune.
+1a4e75b1-853e-455c-a48a-1b52aceff349,20,2023-06-17 04:27:58.710838,L'utilisateur a partagé des informations trompeuses et fausses.
+c2a028e2-bb10-42e1-99ec-4e9bfbc9c426,21,2023-11-12 16:56:20.651961,Ce compte publie du contenu à caractère pornographique.
+fbdcaf6b-0a46-4fa9-ae1d-39cf25ce2026,22,2023-11-21 18:39:02.074646,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+add83e7e-dae4-4d86-b8e7-996d5e1aab04,23,2023-04-22 22:18:09.750246,L'utilisateur publie du contenu à caractère pornographique.
+e36973b3-b50d-4950-b410-8709bb6aa920,24,2023-12-07 10:04:20.250039,Ce contenu contient des insultes racistes ou discriminatoires.
+6d6d8ae0-3cc0-4673-948c-0e72f66dbcb4,25,2023-12-19 03:00:26.686486,Ce contenu contient des insultes racistes ou discriminatoires.
+68342ca3-1238-41be-a5bc-8d848e71f835,26,2022-06-12 22:53:28.232789,Ce compte utilise des images de violence explicite.
+85367940-7e4d-470d-bf35-5e143cbcb988,27,2023-09-30 11:24:52.263618,Ce compte utilise des images de violence explicite.
+7a4cf5e6-4984-4e4a-9fe3-ed292852897e,28,2022-10-27 15:41:10.199585,L'utilisateur encourage à la violence.
+43029bf3-7fcb-4399-b3d5-49ff0fa9061f,29,2023-10-10 12:19:34.419686,Ce compte utilise des images de violence explicite.
+72f2a85e-cec0-482e-95bb-386ee083933a,30,2023-02-28 03:13:18.027948,L'utilisateur publie du contenu à caractère pornographique.
+00cb3278-375e-45e2-913f-5682f79508cd,31,2023-05-25 14:59:28.203491,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+67b09c77-279b-44c2-9666-81bbae12ea80,32,2023-12-01 20:48:50.241315,Cette publication contient des informations trompeuses et fausses.
+ceff5f96-88fb-4465-875a-1c5b9489ff70,33,2023-12-31 19:12:49.752486,Ce contenu contient des insultes racistes ou discriminatoires.
+0c2f6dae-e4ba-4e20-88c7-90255b9d05af,34,2022-05-08 19:49:25.953187,HA
+082d10de-9960-4b83-94a1-1cb6ce89f14d,35,2023-11-16 12:19:08.435701,Ce contenu contient des insultes racistes ou discriminatoires.
+015e73ce-f9b6-487e-a305-a612396bfcea,36,2022-02-19 02:24:41.390155,Ce compte utilise des images de violence explicite.
+75fc1773-3186-4542-865b-820e68f0f9f3,37,2023-07-03 08:23:18.299575,Ce message est du spam ou des liens malveillants.
+7c3eddd2-fb5a-46b3-a51b-de9161b560ec,38,2023-11-02 01:52:09.489128,Ce compte utilise des images de violence explicite.
+533e3130-8da0-4640-81d6-12021092a600,39,2023-12-09 19:16:10.751937,Ce compte publie du contenu à caractère pornographique.
+0ed0db42-aea8-40e4-811c-4376a6bbadd2,40,2023-05-08 08:37:29.595088,Ce compte utilise des images de violence explicite.
+22241826-3e42-4089-aad5-1d5d13cba1c2,41,2023-08-31 23:24:34.632574,L'utilisateur publie du contenu à caractère pornographique.
+707a8eb0-d904-4834-aa66-e1749e63c1e5,42,2023-09-03 17:45:47.384133,Ce compte utilise des images de violence explicite.
+99cc05e7-8dd1-4ac8-8eb2-8e96b71f847d,43,2023-08-13 19:18:32.697424,Ce contenu contient des informations personnelles sans consentement.
+dfa01fde-ddd1-41b7-8e22-25257b629672,44,2023-11-10 16:56:20.610100,L'utilisateur a partagé des informations trompeuses et fausses.
+70e84aaf-6b57-425a-8214-b32bc82e9cb0,45,2022-06-14 05:58:08.412242,L'utilisateur encourage à la violence.
+5827eac1-0423-41f6-aa25-7f2ca5873e89,46,2023-12-29 09:47:06.295823,Ce compte utilise des images de violence explicite.
+11d088b5-b5d3-4565-9442-cb5908c4cd3e,47,2023-11-19 09:46:09.140426,Ce contenu contient des insultes racistes ou discriminatoires.
+3922ea2b-3097-4b6f-b934-9e4bf1d602d7,48,2023-11-14 10:43:06.007318,L'utilisateur encourage à la violence.
+08a7ebff-0434-4627-b04f-3144bd9fbead,49,2022-04-23 02:46:44.852467,Ce contenu contient des insultes racistes ou discriminatoires.
+49ea8ab7-d546-4322-93aa-8b9747190b7f,50,2023-08-04 15:11:55.054570,Cette publication contient des informations trompeuses et fausses.
+2bde1830-9bda-4f02-96ec-1fcb6edc6932,51,2023-03-30 15:27:26.254794,L'utilisateur encourage à la violence.
+3695b3d9-88e2-4c72-a8fb-49a3c277e567,52,2021-08-04 04:51:38.985137,Ce contenu contient des informations personnelles sans consentement.
+65576d70-62a6-43fd-8787-6fd5f58be03a,53,2023-08-19 07:47:10.687355,Ce contenu contient des insultes racistes ou discriminatoires.
+1eac8a66-60fa-4ffa-9dc5-9b490a9dba25,54,2023-12-07 18:55:03.554941,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+8213f4e7-a62d-4428-83e9-c5d8119696a5,55,2023-11-12 16:26:17.440664,L'utilisateur a partagé des images inappropriées pour un public jeune.
+485f381a-6dd4-44a0-91f3-34526885b115,56,2023-10-04 13:31:32.173191,L'utilisateur publie du contenu à caractère pornographique.
+0bbfbd70-195d-4fac-b599-2d5b710d3090,57,2023-06-09 16:48:20.308077,Cette publication contient des informations trompeuses et fausses.
+a3c0b862-9ec8-42c4-a431-f4e8a6a0dae9,58,2023-06-27 08:04:09.885940,Ce message est du spam ou des liens malveillants.
+4c15ca72-dc41-402e-994e-3c935a52790e,59,2023-04-07 22:15:41.812463,Ce compte publie du contenu à caractère pornographique.
+54aac3c8-86c7-4d8a-9915-f94673031aa1,60,2023-06-20 19:13:39.433069,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+55ccc331-36b3-4dbb-8b46-a628c8c347c5,61,2022-08-16 00:10:50.767616,Ce message est du spam ou des liens malveillants.
+75a40b0a-bfea-473a-bd3e-6de7948fc2df,62,2023-10-05 08:29:38.840932,L'utilisateur encourage à la violence.
+94887958-1e89-426f-906c-864648867650,63,2022-12-23 15:28:58.858591,Ce message est du spam ou des fraudes.
+586ff74f-bc04-4c46-9c95-a9076f3f7a17,64,2023-12-30 07:58:23.355000,L'utilisateur encourage à la violence.
+634d1096-61a9-428d-b61b-3945222028ec,65,2023-12-30 03:59:44.192333,Ce message est du spam ou des liens malveillants.
+ee186cb5-2540-41d9-8f2a-9ae9832a6329,66,2023-06-21 13:26:50.133829,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+fb001ee6-d425-4c41-9ee1-a4b463ec6704,67,2023-09-17 04:36:53.021467,L'utilisateur a partagé des informations trompeuses et fausses.
+b414839d-8bee-48c4-b0c1-c2b845ab6259,68,2023-02-12 14:15:08.906732,Ce message est du spam ou des liens malveillants.
+0524ae06-7e8f-4140-a404-ebb067aa24d5,69,2022-12-21 08:24:33.367092,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+f2ef8c19-0137-43e3-b9a6-7d90ca65a592,70,2023-09-10 15:39:47.614360,Ce message est du spam ou des liens malveillants.
+60b3e052-b3ae-45f5-8aee-0cb070a7982e,71,2023-12-29 11:55:56.344216,L'utilisateur encourage à la violence.
+70d7ee73-2f2f-45d9-baa1-623f90ff5792,72,2023-06-27 20:48:23.281294,Ce contenu contient des insultes racistes ou discriminatoires.
+4adeceb0-6ccb-4be2-9c16-d77ca65b619f,73,2023-11-18 05:41:20.242518,L'utilisateur publie du contenu à caractère pornographique.
+cb31ddcd-73b6-45fa-8516-5fb6b16f52f1,74,2022-01-17 12:53:45.237883,L'utilisateur encourage à la violence.
+41c71217-8ef9-4906-9fc4-4b8150064c8f,75,2023-04-29 03:50:40.527990,L'utilisateur a partagé des images inappropriées pour un public jeune.
+4a189a4c-c44e-4210-90b0-c109187befc3,76,2022-02-16 13:39:28.072808,L'utilisateur encourage à la violence.
+fc9be227-01b8-483f-8667-070eb0db6f61,77,2023-01-13 08:55:31.832187,L'utilisateur encourage à la violence.
+0a0dec18-652c-4a8a-9310-a2bb6494b9d7,78,2021-05-15 05:54:01.258152,Ce compte utilise des images de violence explicite.
+25452657-ffee-4f1a-a210-a7db5fa9e4b3,79,2022-06-06 16:20:19.934467,L'utilisateur encourage à la violence.
+1c6e7ff7-6484-4b71-aced-386ba22bbd52,80,2023-04-04 11:51:57.338885,Ce contenu contient des informations personnelles sans consentement.
+e9c64123-17b8-425b-adea-b9ded80cfbc0,81,2023-09-04 02:37:12.020015,Ce contenu contient des insultes racistes ou discriminatoires.
+6b8e16f4-6937-48a5-a4e8-909ac6a97a5c,82,2023-12-21 14:02:01.446219,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+bf78c08d-22d1-4573-a6a5-71e401afcebf,83,2022-01-29 03:44:34.534529,Ce contenu contient des insultes racistes ou discriminatoires.
+72d8a592-bbae-4a94-8234-64c19cbd7ed6,84,2023-08-30 12:29:41.714727,Cette publication contient des informations personnelles sans consentement.
+bb0ccbb3-13bf-4c74-aebe-64c23b0dccbc,85,2023-07-15 14:54:55.047243,L'utilisateur encourage à la violence.
+dfd3de2f-d8f7-4e0a-bbed-2ae8aa9f7700,86,2023-12-06 18:06:28.368830,Ce contenu contient des insultes racistes ou discriminatoires.
+7c744f67-a1f5-4e2f-8b66-e095d8b734e4,87,2023-08-07 00:56:34.829256,Ce compte utilise des images de violence explicite.
+cbe6a96b-0f62-410f-9076-bc7c7acb0815,88,2023-04-06 17:02:18.664756,L'utilisateur a partagé des informations trompeuses et fausses.
+29eebf5f-6340-4279-bca7-d00ab37c41a8,89,2022-02-19 20:31:42.751885,Ce compte utilise des images de violence explicite.
+e500a3a0-7111-4bfe-84ee-6a3e6de76092,90,2023-11-16 09:48:53.154791,Ce message est du spam ou des liens malveillants.
+1e3513ca-1fbd-46e2-8905-09a89527ffb9,91,2023-05-02 18:44:35.744138,L'utilisateur encourage à la violence.
+9a4b3296-ffe7-4af9-a667-65c8526a9e6d,92,2023-02-07 21:42:08.939089,L'utilisateur a partagé des informations trompeuses et fausses.
+1a90ad44-d606-4f70-884e-7c443c5406ec,93,2023-12-11 22:08:58.365115,Ce compte utilise des images de violence explicite.
+4774ae15-d26e-4408-9867-2b74958ee790,94,2023-05-24 21:38:49.284037,Ce message est du spam ou des fraudes.
+3407dec4-bc4c-4498-b2b4-f38aba721271,95,2022-11-19 02:45:43.427774,Ce compte utilise des images de violence explicite.
+dcc92bf0-c62f-41c2-9a92-9b669a8ec200,96,2023-12-12 16:17:07.532826,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+2e30a9be-407b-4c5a-bd8b-f3d1819c20e3,97,2023-11-28 14:10:55.654892,Ce compte utilise des images de violence explicite.
+33aba9e0-37b3-4520-837c-e1443e2e04d6,98,2023-09-24 02:27:39.307455,L'utilisateur encourage à la violence.
+22b9d966-37f5-495a-8d1a-4c5313ffe678,99,2023-05-05 00:36:20.588046,L'utilisateur a partagé des informations trompeuses et fausses.
+8ec1a9cc-f9f5-4693-90fe-54a1efbe7aba,0,2023-12-21 05:31:06.003214,L'utilisateur encourage à la violence.
+b8b6d45d-ce9a-4360-8548-cc1560a2855d,1,2022-05-11 02:19:40.773632,L'utilisateur encourage à la violence.
+55d9f801-5b31-437e-be8a-7ca08e5e8320,2,2023-12-12 05:49:21.331999,Ce compte utilise des images de violence explicite.
+6c07f8e8-f067-46ef-a1c2-0d908d86b191,3,2023-12-29 10:50:34.264354,L'utilisateur a partagé des images inappropriées pour un public jeune.
+645f2916-5697-4910-abfa-183caaeb099d,4,2023-12-29 15:55:40.126437,Ce message est du spam ou des liens malveillants.
+4607d16b-1a15-47ad-b5a7-c3248d0ac307,5,2023-10-15 03:57:24.677430,Ce message est du spam ou des liens malveillants.
+cd2013ac-492d-4220-a7eb-e85482551e21,6,2023-10-18 02:52:01.329206,L'utilisateur a partagé des images inappropriées pour un public jeune.
+8dbd9abc-63ed-4cfc-908f-493063de79ce,7,2023-10-15 05:18:41.705716,L'utilisateur encourage à la violence.
+4e115394-9de6-4167-99bc-d65e273f91d1,8,2023-11-15 05:50:02.742260,L'utilisateur publie du contenu à caractère pornographique.
+d1c2b862-e2c9-4853-8bfd-1e4336575b34,9,2021-11-30 11:17:20.512423,Ce message est du spam ou des liens malveillants.
+1d5fc75a-62a9-4bbe-b6de-8aae0ee2f3b4,10,2023-12-30 19:15:28.900216,L'utilisateur a partagé des informations trompeuses et fausses.
+edd3c587-e644-4a0c-94f9-a7989fe2a87f,11,2023-12-24 23:19:07.069348,Ce message est du spam ou des fraudes.
+26a9f11f-8fa0-4fec-800b-8d10a58181a4,12,2023-10-16 08:31:44.072475,Ce message est du spam ou des liens malveillants.
+af1282f3-d4b7-4bd8-9947-0591c10f6a7b,13,2023-12-11 07:25:57.704748,L'utilisateur encourage à la violence.
+6de1fec5-5458-425d-b172-ba5ae6c8bc96,14,2023-12-30 03:01:52.951843,Ce compte utilise des images de violence explicite.
+ae09f8a4-16c4-4235-8961-de37fdb55531,15,2023-07-16 01:51:40.586667,Ce contenu contient des insultes racistes ou discriminatoires.
+daab49a2-1a51-45cd-88df-e546ca419230,16,2023-11-29 15:55:04.486413,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+5759010e-63f9-4591-a726-b5c4c694c661,17,2023-04-04 10:17:52.994142,L'utilisateur a partagé des informations trompeuses et fausses.
+33bea918-1602-4d09-8848-63d007635abb,18,2023-06-22 07:43:06.965724,Ce message est du spam ou des liens malveillants.
+6c11fef0-5c3d-4fed-831c-7d88665dabf0,19,2023-10-17 10:14:52.028015,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+7e6c94f4-148a-4cc7-863e-c5b60d1c2efa,20,2023-11-08 19:16:08.452730,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+65c78a6b-a127-43d9-ae11-e0eb835947e7,21,2021-12-20 13:37:34.602829,Ce compte publie du contenu à caractère pornographique.
+424a6e98-a717-4834-b3cb-b7d09e4c111d,22,2023-11-19 07:07:30.384151,L'utilisateur encourage à la violence.
+e0a25b03-ad92-4fd4-b809-95eb41ec2631,23,2022-11-19 16:26:02.125703,Ce message est du spam ou des liens malveillants.
+5c8f3610-d3e4-46be-ab7b-3f4e08c9eb39,24,2023-01-22 09:36:06.725666,L'utilisateur a partagé des images inappropriées pour un public jeune.
+9a0f7eea-db30-46fc-87a1-8c2b8fecafcb,25,2023-08-03 23:17:13.033526,Ce compte utilise des images de violence explicite.
+709d2d52-c877-4b18-a05e-f44f04a03693,26,2023-11-17 19:31:14.517265,L'utilisateur encourage à la violence.
+795049de-5bdf-4cd8-a7ba-e0d8b2d85258,27,2023-06-23 21:53:29.779488,L'utilisateur a partagé des informations trompeuses et fausses.
+b4dc314f-ec32-4ab9-8d64-44275a21394f,28,2023-12-31 03:04:46.889725,Cette publication contient des informations trompeuses et fausses.
+1c1168e0-9e88-4cfe-9054-c11a40aafff6,29,2022-07-01 12:41:20.645318,Ce contenu contient des insultes racistes ou discriminatoires.
+6f87568a-dd52-4982-afb7-c4bc19d9e241,30,2023-12-13 23:31:54.471765,Ce compte utilise des images de violence explicite.
+4a702fe0-22e9-4eb3-ad49-acdf7d5ff87f,31,2023-12-18 23:02:27.514034,Ce compte utilise des images de violence explicite.
+e300b450-01db-4e50-8cdf-69eb0975f349,32,2022-05-16 11:19:46.792401,Ce contenu contient des insultes racistes ou discriminatoires.
+21e7278d-9f9f-496e-981e-6db9a3ff1836,33,2023-02-09 13:55:01.377237,L'utilisateur a partagé des images inappropriées pour un public jeune.
+9815c637-1c04-4ff1-a368-e99d71a3edb9,34,2023-02-11 19:08:33.736890,Ce contenu contient des insultes racistes ou discriminatoires.
+874d5da1-a150-401e-a971-056331605f62,35,2023-11-28 01:25:31.110887,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+3de66a81-1820-4616-a112-dce0a8598369,36,2023-01-20 15:57:16.483107,Ce compte utilise des images de violence explicite.
+9a7648d2-4c1a-47ff-a6b3-db6d93adf4a0,37,2023-12-03 06:53:05.119933,L'utilisateur encourage à la violence.
+cee24dd9-752b-4f34-a061-351eb4b250e9,38,2023-10-26 22:55:30.266517,Ce message est du spam ou des fraudes.
+c3829a7c-343e-4138-b892-7119f6926da7,39,2023-08-18 11:20:40.858390,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+0b2873a3-93ee-4f23-a440-0d8fd943a174,40,2023-09-28 02:34:53.206452,Cette publication contient des informations trompeuses et fausses.
+29ab3315-65d0-4958-938a-499a81820772,41,2023-09-15 18:55:30.884790,Ce compte publie du contenu à caractère pornographique.
+cdc34da4-cd2a-4856-af85-5e4eab4fc0ae,42,2022-09-29 09:42:49.069378,Cette publication contient des informations personnelles sans consentement.
+3ab10001-d4cb-4ecd-8341-6b1ed06613e4,43,2023-01-13 02:44:30.407531,Ce compte utilise des images de violence explicite.
+54c56808-df59-4c87-bedb-c21a7684ab3f,44,2023-12-31 00:46:48.428763,Ce contenu contient des informations personnelles sans consentement.
+261c7c79-0fa7-4101-b94a-ea9a30e3e0b0,45,2023-12-05 14:28:52.513750,L'utilisateur a partagé des informations trompeuses et fausses.
+a473a043-5d8b-4adb-ab07-3e8c52d83217,46,2023-10-06 15:44:14.248418,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+b7861a0a-5c5b-4dab-bc7d-9b9737ee81d2,47,2022-08-20 06:21:06.452093,Cette publication contient des informations trompeuses et fausses.
+c8d9e8b9-d8ef-4327-a1b5-ec2db91ac922,48,2022-05-23 06:45:34.525683,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+461e2c48-035e-4efd-bd2e-90fbf7a323b2,49,2022-07-22 16:27:42.142409,L'utilisateur a partagé des informations trompeuses et fausses.
+5899a942-19e9-4a29-8188-57d9f40eb9d2,50,2023-08-23 03:12:35.976710,Ce compte utilise des images de violence explicite.
+9f2a8625-d5b5-4f3c-a76f-9fd4c9734821,51,2022-07-26 21:46:36.444907,L'utilisateur a partagé des images inappropriées pour un public jeune.
+b4181fac-b829-4595-abd2-ea4d1c7140ea,52,2023-11-27 13:41:03.322356,Cette publication contient des informations trompeuses et fausses.
+9263aa89-db01-46ca-9f21-7d1088fa9d53,53,2022-04-13 01:08:58.631715,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+f72b4912-ca74-4b14-91ef-387930865cce,54,2023-03-04 14:28:07.478207,L'utilisateur publie du contenu à caractère pornographique.
+1a9e7e15-69b6-4bb7-83de-f7c81618119e,55,2023-12-24 09:36:44.973002,Ce contenu contient des informations personnelles sans consentement.
+507f89af-7506-44ed-b67b-483fa7e48361,56,2023-11-23 07:44:19.731421,L'utilisateur encourage à la violence.
+3ecfffee-abe7-4945-9d2c-8545099083c9,57,2023-10-31 05:42:41.657843,Ce message est du spam ou des fraudes.
+b6f75dde-3e7c-4258-9710-8f4cb428ab66,58,2022-08-31 04:32:08.878404,Ce contenu contient des insultes racistes ou discriminatoires.
+63a932e3-873c-43cb-ab3e-2777b74b48e1,59,2023-12-17 17:56:45.116356,L'utilisateur publie du contenu à caractère pornographique.
+60ec7315-7b68-4210-a705-babc872bf755,60,2023-01-14 02:05:21.643150,L'utilisateur publie du contenu à caractère pornographique.
+50f193c7-fa29-4027-862d-aabe1b8e2fa1,61,2023-09-03 05:11:38.495117,L'utilisateur a partagé des informations trompeuses et fausses.
+ab3796e5-f4cb-42d8-9a67-c2a2d4114805,62,2021-10-11 09:24:53.978522,Ce message est du spam ou des fraudes.
+0afea699-eac9-4cbd-8069-b6282a24ac3b,63,2023-06-16 14:59:22.637486,Ce message est du spam ou des fraudes.
+5b37b9af-3d6e-46bd-9746-7eaa8d242a21,64,2023-12-27 20:11:43.802337,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+0b0b4431-762d-442b-929c-451e48d51151,65,2023-12-12 12:50:35.954663,L'utilisateur encourage à la violence.
+1681d769-4796-46e0-807d-9244a154c6df,66,2023-01-26 03:14:25.228981,L'utilisateur encourage à la violence.
+2e21c2e6-4176-41c8-bf63-74cea9c715e9,67,2023-12-28 19:28:26.526352,L'utilisateur encourage à la violence.
+b581a986-afd8-463b-9ec0-818f500ceea1,68,2023-12-28 09:59:14.560254,Cette publication contient des informations personnelles sans consentement.
+033a11b0-8f20-4b6c-9b59-205d35d10a70,69,2023-11-06 04:08:19.299122,L'utilisateur encourage à la violence.
+a41f44cc-0f7e-4de7-a1d9-56ff643e8947,70,2023-05-23 06:17:21.732795,Cette publication contient des informations trompeuses et fausses.
+a1cfb1e4-11ce-4b35-bf70-6769546b9662,71,2023-12-13 08:13:56.861351,Cette publication contient des informations trompeuses et fausses.
+ace501bf-a8f9-4137-9e56-242be9be9344,72,2023-08-27 16:24:22.302006,Ce compte utilise des images de violence explicite.
+b7be32a5-4e27-4ed0-b5f8-395087e599f9,73,2020-12-19 12:33:51.431367,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+b352c8d4-dc1d-462c-b1d5-51e5a10c6ea3,74,2021-12-27 19:32:33.973997,Cette publication contient des informations trompeuses et fausses.
+6c487906-149e-4a0f-a006-326cefb82284,75,2022-05-04 23:35:04.018520,Ce compte publie du contenu à caractère pornographique.
+07867ce5-b83d-4316-871c-cc3ecc2d6cb0,76,2023-02-20 10:30:13.430030,Ce compte utilise des images de violence explicite.
+aa69c49c-ca34-4b20-90b0-61b37124cb42,77,2023-12-26 16:12:01.344900,Ce contenu contient des insultes racistes ou discriminatoires.
+0d8634a3-2d8f-4b17-b461-81c0effb681a,78,2023-11-29 12:27:05.388400,L'utilisateur a partagé des images inappropriées pour un public jeune.
+6478ed21-70b9-47ec-b138-bcaf8197ce15,79,2023-12-19 17:26:59.450083,L'utilisateur encourage à la violence.
+d8cf4c17-8009-4005-bbc5-161251d378ba,80,2023-06-13 10:24:40.986828,L'utilisateur encourage à la violence.
+7904cac5-42ff-46aa-bb64-4b052e9497b8,81,2023-12-04 02:39:53.047941,L'utilisateur a partagé des informations trompeuses et fausses.
+5bc06b40-c3a3-49e8-ad29-ad961b7d5e13,82,2023-12-12 04:49:37.645148,L'utilisateur a partagé des informations trompeuses et fausses.
+50472c87-c756-45a7-9a4a-632a9e62e92d,83,2022-12-15 16:31:34.992853,L'utilisateur encourage à la violence.
+2f0f7cb8-1112-4d20-9e32-a2d2adfebeea,84,2023-07-21 06:50:14.324425,Ce compte publie du contenu à caractère pornographique.
+babe2837-3a5c-4596-90b0-c322c454a9a9,85,2020-08-22 22:07:26.122295,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+c42f29c4-e213-44fa-9630-350c296fcf31,86,2023-08-17 04:25:09.354409,L'utilisateur encourage à la violence.
+792ce42d-d956-4380-8158-f8dc09ab789b,87,2023-11-06 13:16:54.479182,Ce contenu contient des insultes racistes ou discriminatoires.
+036d120b-13b1-48bc-9ca4-07c89c7597e6,88,2023-11-29 05:28:43.271190,Ce message est du spam ou des fraudes.
+1e1476c8-2f1e-40de-bb71-f0889ad882bc,89,2023-05-24 03:05:19.054747,L'utilisateur a partagé des informations trompeuses et fausses.
+eafe4593-6d23-4266-835a-ce6b6c611fc8,90,2023-12-11 13:04:42.434030,Ce compte utilise des images de violence explicite.
+2ac56890-0948-480a-8beb-8b74da42e690,91,2023-08-22 05:35:50.691836,Ce compte utilise des images de violence explicite.
+8d2b7d27-fb22-482e-af1d-7ddc8549e73b,92,2023-09-07 13:05:23.034362,Ce compte utilise des images de violence explicite.
+6384d16c-d61f-4a4e-8d9a-2ba94b9132db,93,2023-12-29 00:19:58.020015,Ce message est du spam ou des liens malveillants.
+e9d1107e-d249-47d2-9e3b-f7753e03b8c0,94,2023-12-26 06:07:45.066781,Ce compte utilise des images de violence explicite.
+fdb9a068-1dbf-491e-a833-f82333fdb04e,95,2023-07-06 17:51:45.155177,Ce compte utilise des images de violence explicite.
+c84750fb-2822-466b-9e34-7ba06086c7dd,96,2023-12-13 23:53:30.850704,Cette publication contient des informations trompeuses et fausses.
+99f80856-d453-4030-9a02-087120ae84bc,97,2023-12-27 02:16:33.894529,Ce compte utilise des images de violence explicite.
+79d663d5-f864-4cc9-a7f8-ed6fdb381828,98,2022-06-19 04:29:17.535006,L'utilisateur encourage à la violence.
+00f575bf-85c5-4b7c-8b0e-99bc307a3cc4,99,2023-12-08 11:44:29.155897,Ce compte publie du contenu à caractère pornographique.
+3b199cda-94eb-41a0-b6da-cd7408f723a6,0,2023-11-30 17:32:08.768422,Ce message est du spam ou des liens malveillants.
+7897a393-150d-4b49-b81c-facff7c46187,1,2023-04-05 01:21:22.681341,L'utilisateur encourage à la violence.
+eaa8d2a1-88a6-4c66-ad72-9114d83cfe05,2,2022-11-26 22:13:52.339108,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+2d3eaeda-b689-4b3f-8287-466e437ae4d2,3,2023-04-10 10:02:49.252955,L'utilisateur a partagé des informations trompeuses et fausses.
+7f456ed8-e55a-4ae6-955e-771b1b6afbac,4,2023-08-25 09:30:19.068346,Ce message est du spam ou des fraudes.
+69af1247-3172-45cb-9f87-5e2545634ab2,5,2023-12-06 01:29:38.843141,Ce compte utilise des images de violence explicite.
+c376aee2-ca08-4474-afc7-6f9be5ffb328,6,2023-07-03 12:54:00.500321,Ce compte utilise des images de violence explicite.
+5774eb7d-5456-472e-85df-ecb8c3c72677,7,2023-12-28 13:29:52.745622,Ce message est du spam ou des fraudes.
+d5bff30f-c50a-46b9-8d7f-20f621738e9b,8,2021-05-01 00:39:27.348304,Ce compte utilise des images de violence explicite.
+97cc59b8-7873-4a3f-901d-629147f02f0c,9,2023-12-30 14:36:12.385426,Ce message est du spam ou des liens malveillants.
+347bf613-1e75-4519-b787-62a638494f60,10,2021-09-27 17:11:52.931063,L'utilisateur a partagé des informations trompeuses et fausses.
+72ffea95-683d-4a4d-a8a8-1378781ac09d,11,2023-12-16 01:26:40.298682,Ce message est du spam ou des liens malveillants.
+f38c72d7-d41a-49d4-ac70-0d4e0adabfaa,12,2023-12-29 19:07:16.463188,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+76bb6785-2a1c-4006-a2b3-fd6b50a16402,13,2022-12-21 00:56:49.794883,Cette publication contient des informations personnelles sans consentement.
+1f827ca5-ca7c-4269-ae2d-945e40717150,14,2023-12-22 15:23:53.938747,Ce compte utilise des images de violence explicite.
+5db3489c-bf94-411f-9fd5-38b9527cd945,15,2023-12-31 00:18:08.842478,L'utilisateur a partagé des images inappropriées pour un public jeune.
+8c75d61f-8f5f-40a0-8ac9-2f8eeec688c9,16,2021-09-12 22:55:33.170924,L'utilisateur encourage à la violence.
+312e0ad4-d4c8-45e0-b8a9-f2163e55f416,17,2023-11-16 11:44:46.463866,L'utilisateur publie du contenu à caractère pornographique.
+6de1f6e2-39ad-4e9d-b18f-c60cff6a0eb0,18,2023-12-11 22:41:46.764585,Cette publication contient des informations personnelles sans consentement.
+13099487-c73c-445e-936d-2bd01182a5ba,19,2021-09-08 23:24:10.436592,Ce message est du spam ou des liens malveillants.
+59578510-325c-4f6b-af09-4650463d3a69,20,2023-07-14 19:07:57.493870,L'utilisateur publie du contenu à caractère pornographique.
+864cd174-34c1-4312-8904-be87070086b6,21,2022-07-20 07:16:40.742702,Ce message est du spam ou des fraudes.
+29230ff9-340e-473e-81b2-4ac057a715be,22,2023-12-17 20:59:52.001974,L'utilisateur encourage à la violence.
+169a455c-25b4-4f43-b981-be03fd2729ee,23,2023-04-13 23:47:48.442607,Ce message est du spam ou des fraudes.
+a2ca8fb7-f513-4322-8566-64d0df6c9738,24,2022-02-24 06:37:23.719805,Ce compte utilise des images de violence explicite.
+0c400081-7a6f-4937-8061-ba0b5c948c65,25,2021-10-24 15:58:08.957698,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+725a4bad-c50a-4e88-8941-05f33a4e7a89,26,2023-10-17 04:54:43.362289,Ce compte utilise des images de violence explicite.
+3e724911-edc6-4996-8b4c-ec3b9897c2d1,27,2023-11-03 13:28:54.762249,Cette publication contient des informations trompeuses et fausses.
+d8f80449-eb2f-464b-99d8-9ab71b0886d6,28,2022-03-12 01:40:41.201973,Ce compte publie du contenu à caractère pornographique.
+79f576dd-7fa0-402f-b3af-796aa1694535,29,2023-06-30 21:18:13.692966,L'utilisateur encourage à la violence.
+e6ac5128-fa37-45ab-8394-a801bbe6b3b9,30,2023-12-22 06:31:48.198842,L'utilisateur a partagé des informations trompeuses et fausses.
+9fe4255c-a0b0-42f9-bcdf-12552828aefe,31,2023-12-18 07:10:25.236587,Ce compte publie du contenu à caractère pornographique.
+e4af99d3-3b61-4170-a8b2-cfa910bfbc06,32,2023-11-29 10:03:29.380851,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+e1a773a5-e532-49ab-ba86-3bbd1338a963,33,2021-01-21 21:25:32.681484,Ce message est du spam ou des fraudes.
+a760d8cf-038e-4bc3-8642-5d18fdf227bb,34,2023-11-26 19:16:56.166566,L'utilisateur a partagé des images inappropriées pour un public jeune.
+400c7b25-95c4-4453-a504-d19e9d8fae78,35,2023-03-28 04:21:07.857051,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+acdcc5ab-b772-4268-9844-aa5086e60986,36,2023-09-09 18:20:47.854792,Ce compte utilise des images de violence explicite.
+e0e6f6a1-3493-4ef2-86a3-ecde0cffe64a,37,2023-06-29 02:54:20.066846,L'utilisateur encourage à la violence.
+54c097f0-b9cb-4dd6-a8e9-d79bbfbd661c,38,2022-01-20 14:47:21.588305,L'utilisateur a partagé des images inappropriées pour un public jeune.
+94d4b142-54ff-4cde-be24-a847ff2679f3,39,2023-10-22 01:03:28.495579,Ce message est du spam ou des liens malveillants.
+11a14aea-8064-40b6-a42e-00589f1f0c38,40,2023-11-03 06:29:01.553129,Cette publication contient des informations trompeuses et fausses.
+c639ee98-2a41-44b6-af9f-e8c6ee968699,41,2023-05-28 15:03:40.492893,Ce compte utilise des images de violence explicite.
+918f0408-9e75-4567-b8e9-cf96f9655115,42,2023-04-21 23:49:11.906170,Ce compte publie du contenu à caractère pornographique.
+acf49a39-14fb-4bc3-a661-ebe5d215b65c,43,2023-10-25 20:53:25.028001,Cette publication contient des informations trompeuses et fausses.
+0c1aa70e-e93e-4cbc-a520-85dd87161c97,44,2023-09-02 17:34:40.906506,L'utilisateur a partagé des informations trompeuses et fausses.
+c51117f3-beed-4bb6-a1fd-ee4b75dc53f6,45,2023-09-21 17:00:03.498383,L'utilisateur encourage à la violence.
+90865856-6ee2-4f63-8e0a-91dd68791990,46,2023-10-16 22:11:41.140919,Ce contenu contient des insultes racistes ou discriminatoires.
+0bf16887-ccc1-4646-b8f0-dcd8d1cd16b4,47,2022-10-26 02:43:34.022910,Ce compte utilise des images de violence explicite.
+2f127b3d-c905-4a86-a8bc-d17ee36e3999,48,2023-12-31 22:58:52.306366,Ce compte utilise des images de violence explicite.
+4855939e-50fb-4c2d-9364-6fe74073009c,49,2023-08-11 18:32:52.515018,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+6ea38619-8b08-4e77-aab7-193d73f79cd1,50,2023-12-31 16:51:33.226635,Ce compte utilise des images de violence explicite.
+94e5e463-0100-4790-b4df-6b1bbacbc167,51,2023-07-29 03:16:30.661946,L'utilisateur a partagé des images inappropriées pour un public jeune.
+f6f94ff8-4e5d-4035-aed8-b5b9464f1931,52,2023-01-26 18:23:07.263486,Ce compte publie du contenu à caractère pornographique.
+8fb9706a-6c5c-4cb5-96d5-2a91d3e23b6f,53,2023-11-22 23:50:35.631975,Ce message est du spam ou des fraudes.
+528ec649-ac48-47fe-85c9-6e11992ad50c,54,2023-12-22 23:22:07.255624,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+5b29ae75-41ba-4449-820e-716f2bbf1139,55,2023-09-20 04:42:33.906968,L'utilisateur encourage à la violence.
+53f1f814-a969-4564-b237-221b9b1986b5,56,2023-08-01 03:49:48.721332,Ce compte utilise des images de violence explicite.
+28c2053f-8c1c-4892-8594-4814a2953441,57,2020-01-05 12:33:39.713257,L'utilisateur publie du contenu à caractère pornographique.
+433f036e-87ef-47c7-a080-010e5a1d67a6,58,2023-12-04 21:42:29.209736,Ce message est du spam ou des fraudes.
+e2662022-e96c-4ec3-ae4b-551d787e30bf,59,2023-09-16 05:02:27.620430,Cette publication contient des informations trompeuses et fausses.
+fc5165f1-398b-497b-aba3-6970cd57ccfe,60,2023-05-28 14:39:28.006609,L'utilisateur publie du contenu à caractère pornographique.
+d02f8a69-5437-4c6f-bf6b-b3eba615340c,61,2022-10-07 21:28:08.301692,L'utilisateur a partagé des informations trompeuses et fausses.
+b5fe13e4-928c-43fc-8cbb-1f8d64ad454a,62,2023-08-19 08:56:00.010275,Ce contenu contient des informations personnelles sans consentement.
+f5cf95b5-3986-4c98-8b57-120e34c8c3fb,63,2023-11-27 23:38:21.966209,Ce compte publie du contenu à caractère pornographique.
+aeceb260-8ab7-4784-b361-c629c52c510d,64,2021-09-11 14:41:10.730973,Ce contenu contient des informations personnelles sans consentement.
+6babb8a3-e85c-44aa-8301-1de8e047bf65,65,2023-04-12 02:52:21.684819,L'utilisateur a partagé des informations trompeuses et fausses.
+2b9909af-6551-49b2-8366-758a2b6fc8c4,66,2023-12-12 23:02:57.408959,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+30ffb112-4c50-4bca-a32b-daadd3f822a2,67,2023-09-25 05:41:03.867499,Ce message est du spam ou des liens malveillants.
+4c54cccf-3786-4c65-819c-a10ac87510f8,68,2023-12-04 18:35:00.171674,Ce contenu contient des insultes racistes ou discriminatoires.
+497eb326-ed38-412c-bf64-d37cc1436758,69,2022-01-10 17:27:39.454323,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+8be26010-f496-4d43-8502-43bb01f6a714,70,2022-07-26 23:25:57.328075,L'utilisateur a partagé des informations trompeuses et fausses.
+d85ec3c7-bcf8-4267-a89d-20fcb9f72a9b,71,2023-08-25 20:25:58.760472,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+8a3f78d6-ff15-4514-90f9-f1698d018ccc,72,2023-10-20 13:09:53.762918,Ce contenu contient des insultes racistes ou discriminatoires.
+7cd60443-16ae-4eb3-9b0c-1727f3f31538,73,2023-11-10 10:51:01.435612,HA
+d77fa6e6-fae3-42f0-932c-391a2fff2068,74,2023-04-17 09:29:21.210599,Ce message est du spam ou des fraudes.
+5f959591-5bc6-4d4f-9d1c-ee048ce5f764,75,2023-12-14 03:58:30.065529,L'utilisateur encourage à la violence.
+7cb17298-820f-42c5-8098-b3d8583b4f93,76,2023-11-09 08:53:32.296560,Ce compte publie du contenu à caractère pornographique.
+bb24697d-172b-4002-8d73-ea1b39dbba1d,77,2023-12-15 08:44:08.685678,L'utilisateur a partagé des informations trompeuses et fausses.
+c3d1718c-fbaf-4a79-b7bb-448ed7a75337,78,2023-12-26 20:29:55.513481,Ce compte utilise des images de violence explicite.
+018e75b3-70bf-42d5-a29a-2be62d5fbbbd,79,2023-07-09 04:13:09.669407,L'utilisateur a partagé des informations trompeuses et fausses.
+009d6b23-ef61-4512-a813-96be2a4dd800,80,2022-07-12 18:54:21.636628,L'utilisateur a partagé des informations trompeuses et fausses.
+08131318-fb81-43fa-aa19-82cd76015750,81,2023-10-21 12:44:44.391727,L'utilisateur encourage à la violence.
+3f785e31-e1d8-43c9-bdbb-081c0ae566fb,82,2023-06-20 07:48:40.404577,L'utilisateur encourage à la violence.
+f17860ac-155c-4c09-965f-640f78ec5af6,83,2023-08-24 10:53:27.753522,HA
+ccc6b01e-54f3-4215-bf94-5be12e9cd00d,84,2022-12-02 22:03:26.420082,Ce compte utilise des images de violence explicite.
+d4425067-58a3-435d-8011-0d9cd47c0710,85,2023-12-06 06:47:48.289261,L'utilisateur publie du contenu à caractère pornographique.
+457ba5bd-75d4-4a5e-8275-b62687033e8e,86,2023-10-11 20:29:05.773165,Ce compte publie du contenu à caractère pornographique.
+0e6f84c5-bbe6-46ad-92f9-f5ed69866a89,87,2023-12-27 09:52:21.670543,Cette publication contient des informations trompeuses et fausses.
+a8fe6566-9875-4507-9996-5630e044f0d0,88,2023-10-02 21:42:30.129361,Cette publication contient des informations personnelles sans consentement.
+5d9accee-3ae3-42b2-8e74-51c79335b63a,89,2023-08-29 23:44:52.541053,Ce compte utilise des images de violence explicite.
+d6f6bd71-9874-421b-a547-99e89be5a380,90,2023-10-29 10:20:44.511009,Ce message est du spam ou des liens malveillants.
+c9e8e0f4-13bf-4538-b75f-dfc51032d566,91,2023-12-17 18:41:31.369958,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+936b5c34-652a-4cfb-bf58-abba18400289,92,2023-11-12 15:20:24.990632,Ce compte publie du contenu à caractère pornographique.
+ec968877-5f8d-4911-8eff-8a446a203685,93,2023-12-16 15:59:05.861032,Ce contenu contient des insultes racistes ou discriminatoires.
+be13ff82-a494-4044-9c41-f926735ec3f4,94,2021-07-30 23:50:06.607325,Ce contenu contient des insultes racistes ou discriminatoires.
+aaea91e0-ad4c-4db4-ba26-770d0c12f80d,95,2022-11-03 18:12:17.979242,Ce message est du spam ou des liens malveillants.
+bb8da8d2-e52e-4625-a304-6955c7ca4bf5,96,2023-09-27 23:46:57.844373,Ce contenu contient des insultes racistes ou discriminatoires.
+4e2ede02-afbe-49a1-8120-55d1cb34802c,97,2023-09-12 20:26:20.594969,Ce message est du spam ou des liens malveillants.
+857d0fa2-1af3-47ea-a476-3078c884eac0,98,2023-07-17 20:36:10.669895,L'utilisateur publie du contenu à caractère pornographique.
+3d8d894d-0078-4f7c-b208-66e085f6d063,99,2022-12-10 13:54:05.609446,L'utilisateur a partagé des images inappropriées pour un public jeune.
+1ff5bc1d-fa8f-430c-8bc0-35ad1fd614f5,0,2022-07-27 19:34:31.128706,Ce compte utilise des images de violence explicite.
+189a5324-74e2-4347-8d2f-a9545f3044be,1,2022-07-27 01:37:57.480529,Ce compte utilise des images de violence explicite.
+5d128632-00ff-429a-bcee-332eca34e637,2,2023-08-27 00:30:54.169952,Ce contenu contient des informations personnelles sans consentement.
+9e8c0000-b3f1-47f0-9af8-d47eeba8fc1b,3,2023-12-05 18:41:59.143093,Ce compte utilise des images de violence explicite.
+6340eaa4-c138-49f2-bbfc-bfe8d67581e0,4,2022-09-12 00:13:00.302834,L'utilisateur encourage à la violence.
+8c52f00a-4753-473f-96e1-3cd50e3bc432,5,2023-02-22 04:07:18.268807,Ce compte utilise des images de violence explicite.
+2b1d8a42-8270-4fc0-aafb-c980c1532148,6,2023-12-16 21:35:45.083058,Ce compte utilise des images de violence explicite.
+56c32037-a534-4465-aa02-6ad6f58ab30e,7,2023-12-03 16:35:25.965835,L'utilisateur publie du contenu à caractère pornographique.
+3e639e96-3c6d-4292-90d5-d75c270ef7ce,8,2023-09-03 03:37:55.930003,Ce compte utilise des images de violence explicite.
+17e1528d-4bc0-436e-9a1a-644d6ddbd800,9,2021-07-30 09:26:32.239922,L'utilisateur encourage à la violence.
+af3a193f-8d12-401b-978e-45ae2ce4a417,10,2023-10-28 01:38:21.543842,L'utilisateur encourage à la violence.
+cf83c98c-a0fa-4e19-8006-169fe2edc57a,11,2022-12-05 15:25:24.889503,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+2ba77119-29e0-49fc-8fb2-969a36e6e229,12,2023-06-01 07:37:01.291521,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+340f4e42-893d-4a95-90ec-ad4bb8868556,13,2023-12-16 14:11:05.042664,Ce compte publie du contenu à caractère pornographique.
+887e12fc-a51d-43cd-8c42-bad61c86e417,14,2023-09-09 18:51:22.040359,Ce contenu contient des insultes racistes ou discriminatoires.
+023b663d-d9ab-44e1-bc6d-22a2b58ce750,15,2023-10-03 20:01:20.392676,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+41836bc9-77df-4511-ade5-84ccf4a7da5d,16,2021-06-23 03:53:42.135330,L'utilisateur encourage à la violence.
+e1296766-1726-4c5b-be09-d3fd497245bf,17,2023-10-31 22:51:47.015490,Ce compte utilise des images de violence explicite.
+25c68139-fb31-4cb7-9a21-15a4b46f2a0f,18,2023-12-16 22:11:20.410822,L'utilisateur encourage à la violence.
+6a7185c7-f9aa-4942-817f-2474d575c70e,19,2021-01-11 13:23:09.757983,Cette publication contient des informations personnelles sans consentement.
+bf0fcd62-426f-49ae-b4ec-0783ffff2b81,20,2023-11-27 00:54:34.030673,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+767abfad-48a7-4255-9e64-5916639e8c82,21,2023-09-11 14:50:43.814878,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+162cfc06-63af-4e7b-9b0b-f00df0f55bce,22,2023-12-17 21:21:46.201657,Ce compte publie du contenu à caractère pornographique.
+24179d5c-df2c-4ddd-bb81-a532e096cb5b,23,2023-12-30 16:10:05.838960,L'utilisateur a partagé des informations trompeuses et fausses.
+ac8def31-dcd1-4e98-af93-633a03484547,24,2023-09-27 23:13:00.351890,L'utilisateur encourage à la violence.
+1b0e7e8b-a5e9-40d3-adb1-1ade360f362a,25,2023-07-07 09:49:45.004584,L'utilisateur a partagé des informations trompeuses et fausses.
+65ca3ce6-29e7-471e-9d3c-a298631b4f87,26,2023-12-17 23:42:09.155835,Ce contenu contient des informations personnelles sans consentement.
+9d0f5430-6950-4314-8e36-04077069e2e8,27,2023-07-23 02:12:57.294366,L'utilisateur a partagé des informations trompeuses et fausses.
+8b2fc71a-97f1-4bcb-9f9e-8f92a08dcf6e,28,2023-08-05 07:02:38.734587,L'utilisateur encourage à la violence.
+3ede68aa-f9a5-459e-86c2-a119fbb36e3f,29,2023-12-26 01:46:48.438437,Cette publication contient des informations personnelles sans consentement.
+8654de46-e41a-44d7-8347-4ab0104fd33e,30,2022-06-27 10:56:38.395248,L'utilisateur encourage à la violence.
+2a8938b9-2804-425a-aef9-af65f2ee472b,31,2023-12-18 17:53:00.661724,Ce message est du spam ou des fraudes.
+3dc2341e-e64f-4a5b-bcae-024a4f28e97a,32,2023-12-10 16:08:39.847592,Ce contenu contient des insultes racistes ou discriminatoires.
+e83b0d64-086d-493b-b5f2-ea11d9de9651,33,2023-11-25 03:07:13.320472,Cette publication contient des informations trompeuses et fausses.
+2a212af4-1783-47f5-a037-4ee7177a4ac7,34,2022-07-26 04:28:32.924139,Ce compte utilise des images de violence explicite.
+4a00db1d-6803-41b8-ade9-ed4153fff01c,35,2022-01-17 19:34:09.378538,Cette publication contient des informations personnelles sans consentement.
+7d887191-9dd3-49ce-a952-e09646f2e785,36,2023-12-25 21:44:59.854896,Cette publication contient des informations trompeuses et fausses.
+d4ac31f3-5a38-43d5-8662-403259cce005,37,2023-08-30 04:17:35.289993,L'utilisateur encourage à la violence.
+c53d897b-cf7a-4efe-a55b-4c22b0abc6e6,38,2023-08-15 18:31:34.443423,Ce contenu contient des insultes racistes ou discriminatoires.
+dc8ff9cc-ac3b-47fb-8873-27d1deefb993,39,2023-11-26 05:53:05.881343,Ce message est du spam ou des fraudes.
+c635148f-4e37-40f3-8c51-d88017e25c45,40,2023-10-05 21:45:26.076533,Ce message est du spam ou des fraudes.
+d24acaad-14a7-4f9f-bd2b-274c6ac2e87e,41,2021-01-25 12:26:04.608238,Ce contenu contient des insultes racistes ou discriminatoires.
+47072a22-aef8-4759-9ce8-a84da3cdd448,42,2023-12-30 01:11:32.840092,Ce message est du spam ou des liens malveillants.
+864184d2-4047-4465-a271-c29171f27e37,43,2022-06-02 04:58:52.558525,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+a712ff3b-b291-4d4c-b1e7-4ff6a6ffd4f6,44,2022-01-19 10:39:59.704615,L'utilisateur a partagé des images inappropriées pour un public jeune.
+7b186e01-e10e-4589-9d91-7f67b5d0aa86,45,2023-07-24 05:29:35.149033,Ce compte utilise des images de violence explicite.
+a8b09abf-5320-4953-89df-1b5285dc78c3,46,2023-02-14 00:33:13.270326,L'utilisateur publie du contenu à caractère pornographique.
+c12ce126-e763-4193-be35-2ed3fa846d9e,47,2023-09-21 06:50:52.384290,Ce message est du spam ou des liens malveillants.
+7d7fca9f-d165-415b-977d-bb655c74ad74,48,2023-06-16 01:05:01.013773,Ce compte utilise des images de violence explicite.
+7b6cdcaf-9283-4e1a-b594-9de630644783,49,2022-07-13 11:54:28.317423,Ce compte utilise des images de violence explicite.
+74f994de-abe4-4017-8e4e-6d598c49c5c1,50,2022-01-30 05:17:32.255571,L'utilisateur publie du contenu à caractère pornographique.
+1413e181-b30e-4073-bd91-b2a622bd6cef,51,2023-07-07 03:47:58.897104,L'utilisateur a partagé des informations trompeuses et fausses.
+37e91b40-b326-498e-81c2-ff581eab03fc,52,2023-12-28 10:27:15.606706,Ce compte publie des propos haineux et incite à la haine envers une communauté spécifique.
+c6b5e3d5-3cb1-4994-9e05-00aee76525bb,53,2022-11-15 17:57:42.521745,Ce compte publie du contenu à caractère pornographique.
+f1acdc6c-2808-48cc-b708-8eed88c527d9,54,2021-09-18 22:25:56.699263,L'utilisateur encourage à la violence.
+61fd6474-14ef-4d99-9045-bae1e2871895,55,2023-11-01 15:45:37.116662,Cette publication contient des informations personnelles sans consentement.
+d65f04b3-f7d0-48c9-b1bd-ccfbb3f6ed76,56,2022-01-24 14:54:33.468480,Ce message est du spam ou des fraudes.
+ccf9e1f9-a3bf-4adc-b576-0f0e35f0cf1b,57,2023-10-14 22:14:49.586405,Ce contenu contient des informations personnelles sans consentement.
+0df27342-e289-45c5-9719-d1423b7fa6d0,58,2020-05-15 09:53:23.252831,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+282d912a-64e4-4ab4-8bfd-d32b41f018b7,59,2023-03-08 19:11:34.493428,Ce message est du spam ou des fraudes.
+dd0c74af-f9df-4826-8c73-a198cb441277,60,2023-10-03 22:06:58.138277,Ce compte utilise des images de violence explicite.
+f2053051-271f-4f12-8d98-eddcd75afa08,61,2023-09-16 16:59:22.897997,Ce compte publie du contenu à caractère pornographique.
+eadfc683-7066-4435-bb1c-230f59efa1d9,62,2021-06-20 14:53:11.885116,Ce compte publie du contenu à caractère pornographique.
+890194d7-b5e3-4fce-9aef-d0b00e159e6a,63,2023-01-11 11:48:37.995924,L'utilisateur publie du contenu à caractère pornographique.
+9efb54fa-e7b7-4f2e-bd8b-d88dd916bc07,64,2023-07-22 23:40:33.523400,L'utilisateur a partagé des informations trompeuses et fausses.
+60f65e9f-2c03-4f66-bc80-30754e44b1a6,65,2023-11-23 16:37:19.430021,Ce message est du spam ou des liens malveillants.
+cd567185-2e27-4531-a7cd-c0b6ae82564a,66,2023-08-21 02:37:13.940689,Ce contenu contient des insultes racistes ou discriminatoires.
+8159dec9-bd2b-4ab4-8a27-6bc032a8efe1,67,2023-06-25 08:29:25.121804,L'utilisateur a partagé des informations trompeuses et fausses.
+5640ed52-3c00-4a32-9ae3-4bb31552a9a2,68,2021-07-02 21:07:27.724769,L'utilisateur publie du contenu à caractère pornographique.
+9de8b412-e35f-4c62-b00b-36d29dd8304d,69,2023-12-21 07:54:38.481597,L'utilisateur encourage à la violence.
+757526b8-3bec-4d91-948d-7858a9f9b093,70,2023-03-27 10:25:39.197626,Ce message est du spam ou des liens malveillants.
+8cabab2d-aa2a-475f-90ca-9660ac184b0a,71,2023-08-08 04:29:42.364252,Ce contenu contient des insultes racistes ou discriminatoires.
+8926c065-7b1a-47a4-b917-deb326b22639,72,2023-07-28 14:11:40.597660,Ce compte utilise des images de violence explicite.
+146f30d9-318b-458f-af36-2bcba6feedcd,73,2023-12-29 15:08:16.906605,Ce compte utilise des images de violence explicite.
+9ac64827-4927-42cd-a9b3-3afc29d9a9b9,74,2022-10-12 07:01:48.019244,Ce compte publie du contenu à caractère pornographique.
+09758247-91b8-40b0-90ef-39d2fa5dd14a,75,2023-10-23 04:00:14.352075,Cette publication contient des informations trompeuses et fausses.
+478df648-e5c4-407a-93a1-bb1025b8b7be,76,2023-05-03 11:43:56.546946,Ce message est du spam ou des fraudes.
+f2c94837-a71d-4c55-96ad-29ee48f0e13d,77,2023-11-08 16:34:51.998669,L'utilisateur encourage à la violence.
+6a8bf607-8f28-4fa1-b2eb-fb9372129955,78,2023-10-19 19:12:53.993072,L'utilisateur encourage à la violence.
+0c7529bf-0d4a-4d2b-ac02-a894b4b16fa0,79,2023-12-05 12:58:26.938020,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+d5aed57b-e4b2-4a64-a10a-7028c3b43a44,80,2023-09-16 02:26:32.039901,L'utilisateur encourage à la violence.
+35b3ff54-2df4-43a3-ace3-21823f5706b8,81,2023-08-20 11:59:03.257134,L'utilisateur a partagé des informations trompeuses et fausses.
+4efd9cca-02cf-4214-a60a-66fa9bc61b15,82,2023-12-26 15:57:43.394567,L'utilisateur a partagé des informations trompeuses et fausses.
+9d95ee05-d3b1-48cb-a0ff-fb5437e41fc0,83,2023-10-23 09:19:10.304116,Ce compte utilise des images de violence explicite.
+936c0283-9089-489b-bff2-fd8b33a16eed,84,2023-09-29 21:35:32.999032,L'utilisateur encourage à la violence.
+98626483-447d-4a21-8cda-fef50770db95,85,2023-08-27 13:30:26.127132,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+0ad1007a-aa96-41d1-b1a3-71ae34c1e7e0,86,2023-06-22 22:32:52.594153,L'utilisateur a partagé des informations trompeuses et fausses.
+b76821c1-dc85-40ea-b161-94f0e34316a2,87,2023-12-30 11:49:31.416162,L'utilisateur encourage à la violence.
+3ba0f08e-77b3-4924-a62c-6ffc4a8467c6,88,2023-08-14 13:50:24.091286,Ce compte diffuse du contenu incitant à l'automutilation ou au suicide.
+10b1faf4-9565-4212-a907-53607b7ac3cc,89,2023-10-26 00:27:28.369633,Ce compte utilise des images de violence explicite.
+df0f30fd-4b87-4fbd-bdec-1852f8a71d75,90,2023-08-18 11:00:44.358835,Ce compte utilise des images de violence explicite.
+4419cd6d-43fb-4ea2-bd2b-0c7066900c40,91,2022-11-20 21:13:21.982953,L'utilisateur a partagé des informations trompeuses et fausses.
+2e57cce0-c906-479e-b1e7-a623d1cd6f12,92,2023-11-16 08:30:18.814432,L'utilisateur a partagé des images inappropriées pour un public jeune.
+b43594c2-15ad-4146-869b-f5d0d74af71e,93,2023-12-06 20:09:07.904319,Ce compte publie du contenu à caractère pornographique.
+9c4f0bf9-48e1-4373-b889-e1497cc5d230,94,2023-11-19 13:44:09.005213,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+8ff810c2-62bb-4fc3-872d-c6b49469a223,95,2023-12-16 00:26:58.843790,Ce compte publie du contenu à caractère pornographique.
+3060d91f-3bce-4fb0-b1da-eb82b7338787,96,2023-12-21 07:41:29.877400,L'utilisateur a partagé des images inappropriées pour un public jeune.
+b71ba529-17c7-472b-95de-a059379ce2ef,97,2022-09-07 20:28:33.873082,Ce compte utilise des images de violence explicite.
+f181258b-57cb-4b6c-9d08-73c147346ab2,98,2023-06-29 23:07:48.340835,L'utilisateur encourage à la violence.
+b11658ec-003b-422b-ad68-c6820f8290fb,99,2023-12-03 08:30:53.647345,Ce compte publie du contenu à caractère pornographique.
+b944958d-1292-4377-80dc-e36034243831,0,2023-07-19 16:05:33.093216,Ce compte utilise des images de violence explicite.
+1fbc96af-5f3f-4e5b-a889-3d7682a34bf8,1,2023-06-12 17:26:30.537244,L'utilisateur publie du contenu à caractère pornographique.
+6dd12038-3328-4074-a763-e407458cf0ed,2,2021-12-14 05:46:10.372226,Ce message est du spam ou des fraudes.
+e096c4c5-32c0-4b6c-a3a4-7d38d678853d,3,2023-08-20 07:26:13.375791,Ce message est du spam ou des liens malveillants.
+24931749-afe0-4a40-a20e-f07306be9ecd,4,2022-10-01 03:09:38.034218,Ce contenu contient des insultes racistes ou discriminatoires.
+48f972a3-927e-4127-85e1-e68116aee417,5,2023-11-22 11:48:29.329405,L'utilisateur encourage à la violence.
+7d81d8cd-9328-486d-9820-5d92080cce3f,6,2023-11-16 10:26:22.913807,Ce contenu contient des informations personnelles sans consentement.
+ea1b65da-d900-4219-9bd6-c03b49b8db05,7,2023-11-23 01:26:41.149929,L'utilisateur encourage à la violence.
+8b9da8fa-50d3-45ca-890e-7c53bb944093,8,2023-06-11 03:31:42.745619,L'utilisateur encourage à la violence.
+469e8c38-2ccf-4c7b-b24f-c91c5eb9d300,9,2023-01-11 03:15:01.717865,L'utilisateur encourage à la violence.
+3083a627-dd8a-4eb9-bbb3-1d405b0f3265,10,2023-07-14 17:52:16.645143,Ce contenu contient des insultes racistes ou discriminatoires.
+135c4c10-9dc3-451e-a058-bfaa4f67b741,11,2023-12-24 21:52:43.757836,L'utilisateur encourage à la violence.
+e4237acd-d8a8-4bb9-b5ab-e2e487c5748f,12,2023-10-20 21:41:13.547006,L'utilisateur encourage à la violence.
+3026fec9-22df-4fb8-b501-bb0dfcd77f3e,13,2023-11-29 11:38:18.545622,L'utilisateur publie du contenu à caractère pornographique.
+ac482377-aa28-42be-a111-71d4f1e37c4a,14,2023-02-06 17:23:25.207634,Cette publication contient des informations personnelles sans consentement.
+118abca0-0d7f-4133-8ca8-abe8c9e3c1bd,15,2023-09-21 20:42:51.369505,L'utilisateur encourage à la violence.
+d240b549-f3fc-431b-940f-59ad2559e8f2,16,2023-12-31 19:14:43.122685,Ce compte publie constamment du spam et a été envoyé à plusieurs reprises.
+883f20fa-6416-42a1-a191-ed2bd6eecb93,17,2023-12-27 16:33:54.510963,Ce contenu contient des insultes racistes ou discriminatoires.
+ffe79732-8740-47ad-8f16-31f2debfa81a,18,2022-02-25 13:27:02.775072,L'utilisateur a partagé des informations trompeuses et fausses.

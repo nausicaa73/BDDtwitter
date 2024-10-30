@@ -4,6 +4,7 @@ import csv
 import datetime
 import uuid
 import markovify
+from tqdm import tqdm
 
 def random_date(start, end, prop):
     start = datetime.datetime.strptime(start, '%Y-%m-%d %H:%M:%S.%f')
@@ -112,16 +113,16 @@ def genere_user_follower(taille, name_file_user,name_file_follower,liste_user, l
     with open(name_file_user, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["userId","userName","realName","status","otherProfileStuff","creationTime","suspendedTime","deletedTime"])
-        for i in range(taille):
+        for i in tqdm(range(taille)):
             date= random_date_defaut()
             date_suspended= random_date_from_date(date,"2024", random.random())
             date_deleted= random_date_from_date(date_suspended,"2024", random.random())
-            writer.writerow([i,random.choice(liste_user),random.choice(liste_realName),random.choice((["true"]*9)+["false"]),
+            writer.writerow([i,liste_user[i],liste_realName[i],random.choice((["true"]*9)+["false"]),
                              random_bio(random.randint(100,300)),date,choix("",date_suspended,0.9),choix("",date_deleted,0.9)])
     with open(name_file_follower, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["userId","followerId","followTime","unfollowTime"])
-        for i in range(taille):
+        for i in tqdm(range(taille)):
             for j in range(taille):
                 if random.random()<0.1 and i!=j:
                     date= random_date_defaut()
@@ -133,7 +134,7 @@ def genere_tweet_like(taille, name_file_tweet, name_file_like,name_file_url, nam
         writer = csv.writer(file)
         
         writer.writerow(["tweetId","userId","repostTweetId","content","sentimentScore","postTime","modifyTime","suspendedTime","deletedTime"])
-        for i in range(taille):
+        for i in tqdm(range(taille)):
             liste_tweet.append(random_uuid())
             user= random.choice(liste_user)
             #recuperer la date de création du user
@@ -156,7 +157,7 @@ def genere_tweet_like(taille, name_file_tweet, name_file_like,name_file_url, nam
     with open(name_file_like, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["tweetId","userId","likeTime","unlikeTime"])
-        for i in liste_tweet:
+        for i in tqdm(liste_tweet):
             for j in liste_user:
                 if random.random()<0.1:
                     date= random_date_defaut()
@@ -164,13 +165,13 @@ def genere_tweet_like(taille, name_file_tweet, name_file_like,name_file_url, nam
     with open(name_file_url, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["urlId","tweetId","url"])
-        for i,j in enumerate(liste_tweet):
+        for i,j in tqdm(enumerate(liste_tweet)):
             writer.writerow([i,j,"https://twitter.com/"+str(j)])
     with open(name_file_report, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["tweetId","reporterId","reportTime","reason"])
         compte=0
-        for i in range(len(liste_tweet)):
+        for i in tqdm(range(len(liste_tweet))):
             if random.random()<0.1:
                 lecture= csv.reader(open("tweets.csv", "r"))
                 for rang,row in enumerate(lecture):
@@ -184,7 +185,7 @@ def genere_tweet_like(taille, name_file_tweet, name_file_like,name_file_url, nam
     with open(name_file_media, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["mediaId","tweetId","mimeType","size","content","exif","postTime","modifyTime","deletedTime"]) #content : bytea exif: bytea
-        for i in liste_tweet:
+        for i in tqdm(liste_tweet):
             if random.random()<0.1:
                 lecture= csv.reader(open("tweets.csv", "r"))
                 for rang,row in enumerate(lecture):
@@ -196,11 +197,16 @@ def genere_tweet_like(taille, name_file_tweet, name_file_like,name_file_url, nam
                 size=random.randint(100,1000)
                 writer.writerow([random_uuid(),i,random.choice(["image","video"]),size,os.urandom(size).hex(),os.urandom(10).hex(),date,date_edit,date_deleted])
 
-size=20          
+size=100     
 def generate_pseudo(prefixes,suffixes,sep):
     return random.choice(prefixes) +sep+ random.choice(suffixes)       
-def genearte_liste_user(taille,prefixes,suffixes,sep,unique):
+def genearte_liste_user(taille,prefixes,suffixes,sep,unique, add_name_TP=False):
     liste=[]
+    if add_name_TP:
+        liste.append("Frigiel")
+        liste.append("CampusIoT")
+        liste.append("realDonaldTrump")
+        liste.append("KamalaHarris")
     for i in range(taille):
         user=generate_pseudo(prefixes,suffixes,sep)
         if unique:
@@ -212,13 +218,13 @@ genere_user_follower(size, "users.csv","followers.csv",genearte_liste_user(size,
     "Star", "Night", "Shadow", "Cyber", "Dream",
     "Fire", "Ice", "Thunder", "Storm", "Ghost",
     "Phantom", "Silver", "Dark", "Golden", "Crystal",
-    "Mystic", "Echo", "Titan", "Frost", "Dragon"
+    "Mystic", "Echo", "Titan", "Frost", "Dragon","Frigiel"
 ], [
     "Hunter", "Wizard", "King", "Queen", "Knight",
     "Warrior", "Mage", "Assassin", "Lord", "Lady",
     "Rider", "Seeker", "Bard", "Master", "Sage",
-    "Ninja", "Paladin", "Fighter", "Demon", "Champion"
-],"",False), genearte_liste_user(size,[
+    "Ninja", "Paladin", "Fighter", "Demon", "Champion",""
+],"",False,True), genearte_liste_user(size,[
     "Alice", "Benjamin", "Clara", "David", "Emma",
     "Florian", "Gabrielle", "Hugo", "Isabelle", "Julien",
     "Katherine", "Lucas", "Mélanie", "Nathan", "Olivia",

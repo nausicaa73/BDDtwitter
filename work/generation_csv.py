@@ -45,26 +45,26 @@ Artist. Finding beauty in the everyday. Always creating.
 
 def random_tweet(size):
     tweets = """
-    Learning Python was the best decision I made this year! 🚀 #Python #Coding
+    Learning Python was the best decision I made this year! 🚀 #Python #Coding #postgresql #mysql
     Just finished a 5k run this morning. Feeling great! 🏃‍♂️💪 #FitnessGoals
-    Coffee and coding... the perfect combination for a productive day! ☕💻 #CodeLife
-    Excited to start my new project on AI and machine learning! 🤖📊 #AI #ML
+    Coffee and coding... the perfect combination for a productive day! ☕💻 #CodeLife #mysql
+    Excited to start my new project on AI and machine learning! 🤖📊 #AI #ML 
     Always believe in yourself. You are capable of amazing things. ✨ #MotivationMonday
-    Trying out this new JavaScript framework... wish me luck! 😅 #CodeNewbie #JS
+    Trying out this new JavaScript framework... wish me luck! 😅 #CodeNewbie #JS #postgresql #mysql
     Weekend plans: Read a good book, drink some tea, and relax. 📚🍵 #SelfCare
     Got promoted today! Hard work really does pay off. 🎉 #CareerGoals #Grateful
-    The new iPhone is sleek, but that price tag though... 💸 #TechTalk
+    The new iPhone is sleek, but that price tag though... 💸 #TechTalk  #postgresql
     Just watched the latest episode of my favorite show, and I am SHOOK. 😱 #TVTime
     Traveling opens your mind to new perspectives. Can’t wait for my next adventure! 🌍✈️ #Wanderlust
-    JavaScript is both a blessing and a curse, depending on the day. 😩 #CodeStruggles
+    JavaScript is both a blessing and a curse, depending on the day. 😩 #CodeStruggles #postgresql 
     You miss 100% of the shots you don’t take. Go for it! 🏀 #Inspiration #Motivation
-    Taking a break from social media for a bit. See you on the other side! ✌️ #DigitalDetox
-    Machine learning is fascinating. So many possibilities for the future of tech! 🔮 #DataScience #AI
-    Started learning React today, and I must say, it's not as scary as I thought! #WebDev #ReactJS
+    Taking a break from social media for a bit. See you on the other side! ✌️ #DigitalDetox #postgresql 
+    Machine learning is fascinating. So many possibilities for the future of tech! 🔮 #DataScience #AI #mysql
+    Started learning React today, and I must say, it's not as scary as I thought! #postgresql  #WebDev #ReactJS 
     Success is not the key to happiness. Happiness is the key to success. 💡 #LifeAdvice
-    Any good book recommendations? Looking to expand my reading list! 📖 #BookLovers
+    Any good book recommendations? Looking to expand my reading list! 📖 #BookLovers #mysql
     Sometimes all you need is a good playlist and some quiet time. 🎧 #MusicTherapy
-    Coding is 90% Googling and 10% praying it works. 😅 #DeveloperLife
+    Coding is 90% Googling and 10% praying it works. 😅 #DeveloperLife #mysql
     """
 
   

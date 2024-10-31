@@ -6,8 +6,8 @@
 --     \:  |     /   /  \\   | /\  |\  \:  |        \:  |   (:      "||:  __   \     |:       :)|.  \    /:  |
 --      \__|    |___/    \___|(__\_|_)  \__|         \__|    \_______)|__|  \___)    (________/ |___|\__/|___|
                                                                                                         
--- Binome 1 : Je soussigné(e), Nom, Prénom, …………………………………………………………………………………………………………………………………… certifie qu’il s’agit d’un travail original et que toutes les sources utilisées ont été indiquées dans leur totalité. Fait à ______________ le __/__/__.
--- Binome 2 : Je soussigné(e), Nom, Prénom, …………………………………………………………………………………………………………………………………… certifie qu’il s’agit d’un travail original et que toutes les sources utilisées ont été indiquées dans leur totalité. Fait à ______________ le __/__/__.
+-- Binome 1 : Je soussigné(e), Nom, Prénom, Badin Victor certifie qu’il s’agit d’un travail original et que toutes les sources utilisées ont été indiquées dans leur totalité. Fait à Grenoble le 24/10/2024.
+-- Binome 2 : Je soussigné(e), Nom, Prénom, Martins Lucas certifie qu’il s’agit d’un travail original et que toutes les sources utilisées ont été indiquées dans leur totalité. Fait à Grenoble le 24/10/2024.
 
 
 -- Connect to the database
@@ -23,6 +23,12 @@ SET client_min_messages = warning;
 SET row_security = off;
 
 --  Q1: Donnez la liste des tweets de [@CampusIoT](https://twitter.com/CampusIoT)
+
+SELECT TTweet.*                                                         -- On récupère toutes les colonnes de la table TTweet                 
+FROM TTweet INNER JOIN TUserInfo ON TTweet.userId = TUserInfo.userId    -- On garde que les tweets de 
+WHERE TUserInfo.username = 'CampusIoT';
+
+
 
 SELECT T.tweetId, T.content, TO_CHAR(T.postTime, 'Day, DD  HH24:MI') AS DATE
 FROM TUserInfo U NATURAL JOIN TTweet T

@@ -37,7 +37,7 @@ DROP TABLE IF EXISTS TURL CASCADE;
 
 
 CREATE TABLE TUserInfo (
-    userId VARCHAR(20) PRIMARY KEY,
+    userId SERIAL PRIMARY KEY,
     userName VARCHAR(50) NOT NULL,
     realName VARCHAR(50) NOT NULL,
     status BOOLEAN NOT NULL, 
@@ -54,8 +54,8 @@ CSV HEADER;
 
 
 CREATE TABLE TFollow (
-    userid VARCHAR(20) REFERENCES TUserInfo(userId) NOT NULL,
-    followerId VARCHAR(20) REFERENCES TUserInfo(userId) NOT NULL,
+    userid SERIAL REFERENCES TUserInfo(userId) NOT NULL,
+    followerId SERIAL REFERENCES TUserInfo(userId) NOT NULL,
     followedTime TIMESTAMP NOT NULL,
     unfollowedTime TIMESTAMP,
     PRIMARY KEY (userid, followerId) 
@@ -69,7 +69,7 @@ CSV HEADER;
 
 CREATE TABLE TTweet (
     tweetId UUID PRIMARY KEY,
-    userId VARCHAR(20) REFERENCES TUserInfo(userId) NOT NULL,
+    userId SERIAL REFERENCES TUserInfo(userId) NOT NULL,
     repostTweetId UUID REFERENCES TTweet(tweetId),
     content TEXT NOT NULL,
     sentimentScore REAL NOT NULL DEFAULT 0.0,
@@ -87,7 +87,7 @@ CSV HEADER;
 
 CREATE TABLE TLike (
     tweetId UUID REFERENCES TTweet(tweetId) NOT NULL,
-    userId VARCHAR(20) REFERENCES TUserInfo(userId) NOT NULL,
+    userId SERIAL REFERENCES TUserInfo(userId) NOT NULL,
     likeTime TIMESTAMP NOT NULL,
     unlikeTime TIMESTAMP,
     PRIMARY KEY (tweetId, userId) 
@@ -119,7 +119,7 @@ CSV HEADER;
 
 CREATE TABLE TReport (
     tweetId UUID REFERENCES TTweet(tweetId),
-    reporterId VARCHAR(20) REFERENCES TUserInfo(userId),
+    reporterId SERIAL REFERENCES TUserInfo(userId),
     reportTime TIMESTAMP NOT NULL,
     reason VARCHAR(255) NOT NULL,
     PRIMARY KEY (tweetId, reporterId) 

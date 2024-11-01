@@ -45,27 +45,52 @@ Artist. Finding beauty in the everyday. Always creating.
 
 def random_tweet(size):
     tweets = """
-    Learning Python was the best decision I made this year! 🚀 #Python #Coding #postgresql #mysql
-    Just finished a 5k run this morning. Feeling great! 🏃‍♂️💪 #FitnessGoals
-    Coffee and coding... the perfect combination for a productive day! ☕💻 #CodeLife #mysql
-    Excited to start my new project on AI and machine learning! 🤖📊 #AI #ML 
-    Always believe in yourself. You are capable of amazing things. ✨ #MotivationMonday
-    Trying out this new JavaScript framework... wish me luck! 😅 #CodeNewbie #JS #postgresql #mysql
-    Weekend plans: Read a good book, drink some tea, and relax. 📚🍵 #SelfCare
-    Got promoted today! Hard work really does pay off. 🎉 #CareerGoals #Grateful
-    The new iPhone is sleek, but that price tag though... 💸 #TechTalk  #postgresql
-    Just watched the latest episode of my favorite show, and I am SHOOK. 😱 #TVTime
-    Traveling opens your mind to new perspectives. Can’t wait for my next adventure! 🌍✈️ #Wanderlust
-    JavaScript is both a blessing and a curse, depending on the day. 😩 #CodeStruggles #postgresql 
-    You miss 100% of the shots you don’t take. Go for it! 🏀 #Inspiration #Motivation
-    Taking a break from social media for a bit. See you on the other side! ✌️ #DigitalDetox #postgresql 
-    Machine learning is fascinating. So many possibilities for the future of tech! 🔮 #DataScience #AI #mysql
-    Started learning React today, and I must say, it's not as scary as I thought! #postgresql  #WebDev #ReactJS 
-    Success is not the key to happiness. Happiness is the key to success. 💡 #LifeAdvice
-    Any good book recommendations? Looking to expand my reading list! 📖 #BookLovers #mysql
-    Sometimes all you need is a good playlist and some quiet time. 🎧 #MusicTherapy
-    Coding is 90% Googling and 10% praying it works. 😅 #DeveloperLife #mysql
-    """
+Learning Python was the best decision I made this year! 🚀 😀 #Python #Coding #postgresql #mysql @CampusIoT
+Just finished a 5k run this morning. Feeling great! 🏃‍♂️💪 #FitnessGoals @CampusIoT
+Coffee and coding... the perfect combination for a productive day! ☕💻 #CodeLife #mysql @Frigiel
+Excited to start my new project on AI and machine learning! 🤖📊 #AI #ML @CampusIoT
+Always believe in yourself. You are capable of amazing things. ✨ 😀 #MotivationMonday @CampusIoT
+Trying out this new JavaScript framework... wish me luck! 😅 #CodeNewbie #JS #postgresql #mysql
+Weekend plans: Read a good book, drink some tea, and relax. 📚🍵 😀#SelfCare @Frigiel
+Got promoted today! Hard work really does pay off. 🎉 #CareerGoals #Grateful @CampusIoT
+The new iPhone is sleek, but that price tag though... 💸 #TechTalk  #postgresql @Frigiel
+Just watched the latest episode of my favorite show, and I am SHOOK. 😱 😀#TVTime
+Traveling opens your mind to new perspectives. Can’t wait for my next adventure! 🌍✈️ #Wanderlust @realDonaldTrump
+JavaScript is both a blessing and a curse, depending on the day. 😩 #CodeStruggles #postgresql @CampusIoT
+You miss 100% of the shots you don’t take. Go for it! 🏀 #Inspiration #Motivation @CampusIoT
+Taking a break from social media for a bit. See you on the other side! ✌️ #DigitalDetox #postgresql 
+Machine learning is fascinating. So many possibilities for the future of tech! 🔮 #DataScience #AI #mysql @CampusIoT
+Started learning React today, and I must say, it's not as scary as I thought! #postgresql  #WebDev #ReactJS  @realDonaldTrump
+Success is not the key to happiness. Happiness is the key to success. 💡 😀 LifeAdvice @CampusIoT
+Any good book recommendations? Looking to expand my reading list! 📖 #BookLovers #mysql @realDonaldTrump
+Sometimes all you need is a good playlist and some quiet time. 🎧 😀 #MusicTherapy @Frigiel
+Coding is 90% Googling and 10% praying it works. 😅 #DeveloperLife #mysql @Frigiel
+Embracing the hustle! Every day is a new opportunity to grow. 💪🚀 #EntrepreneurLife @CampusIoT
+Just finished watching a documentary on climate change. So eye-opening! 🌍📺 #ClimateAction @Frigiel
+Weekend vibes! Time to unwind and recharge for the week ahead. 🌞✨ #WeekendMood @realDonaldTrump
+Learning new programming languages keeps my mind sharp! 💻🧠 #LifelongLearning @CampusIoT
+Can’t believe it’s already Halloween! 🎃 What are your plans? #SpookySeason @Frigiel
+Music has a way of touching the soul. What’s on your playlist today? 🎶❤️ #MusicLovers @CampusIoT
+Feeling grateful for friends who inspire me daily. 🥰💖 #FriendshipGoals @Frigiel
+There's nothing like a good cup of tea and a great book! 🍵📚 #TeaTime #BookRecommendations @realDonaldTrump
+Just submitted my application for a tech conference! Excited! 🚀📄 #Networking @CampusIoT
+Spent the day hiking in the mountains. Nature is the best therapy! ⛰️💚 #GetOutside @Frigiel
+The latest tech trends are fascinating! What do you think about AI? 🤔💻 #FutureTech @CampusIoT
+Just tried a new recipe and it turned out amazing! 🍽️😍 #CookingAdventures @Frigiel
+It's a beautiful day to learn something new! What are you studying today? 🌞📚 #KnowledgeIsPower @CampusIoT
+Feeling pumped after a great workout session! 💪🔥 #FitnessJourney @Frigiel
+Looking forward to the weekend! Any plans? 🎉😊 #FridayFeeling @realDonaldTrump
+Attending a webinar on cybersecurity today. Always learning! 🔒💻 #TechSavvy @CampusIoT
+Fall is my favorite season! The colors are stunning. 🍂🍁 #AutumnVibes @Frigiel
+Making progress on my side project! Persistence pays off. 🚀💻 #SideHustle @CampusIoT
+What are your go-to resources for learning programming? 🤓💡 #DevCommunity @Frigiel
+Enjoying a quiet evening with a good movie. Perfect way to unwind! 🍿🎬 #MovieNight @realDonaldTrump
+Just completed a course on data analysis. Ready to tackle new challenges! 📊💪 #DataDriven @CampusIoT
+I love this time of year! The holiday spirit is in the air. 🎄✨ #HolidaySeason @Frigiel
+Every day is a new chance to make a difference! 🌟🙌 #Inspiration @CampusIoT
+Taking a moment to appreciate the little things in life. 🥰💖 #Gratitude @Frigiel
+Learning to balance work and self-care. It's a journey! ⚖️💼 #WorkLifeBalance @CampusIoT
+"""
 
   
     text_model = markovify.Text(tweets)
@@ -108,7 +133,7 @@ def random_reason(size):
 
 
 def random_date_defaut():
-    return random_date("2019-01-01 00:00:00.00", "2024", random.random())
+    return random_date("2013-01-01 00:00:00.00", "2024", random.random())
 def genere_user_follower(taille, name_file_user,name_file_follower,liste_user, liste_realName):
     with open(name_file_user, 'w', newline='') as file:
         writer = csv.writer(file)
@@ -124,7 +149,7 @@ def genere_user_follower(taille, name_file_user,name_file_follower,liste_user, l
         writer.writerow(["userId","followerId","followTime","unfollowTime"])
         for i in tqdm(range(taille)):
             for j in range(taille):
-                if random.random()<0.1 and i!=j:
+                if random.random()<0.2 and i!=j:
                     date= random_date_defaut()
                     writer.writerow([i,j,date,choix("",random_date_from_date(date, "2024",random.random()),0.9)])
 
